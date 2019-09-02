@@ -13,55 +13,59 @@ Für diesen Schritt sind einige Festlegungen zu treffen, die zum Teil nachträgl
 
 Die **Pfadangabe (Slug)** der Ausstellung legt den Teil der URL auf der Plattform der Deutschen Digitalen Bibliothek fest, der Ihre Ausstellung kennzeichnet. Damit Ihre Inhalte von Suchmaschinen gut gefunden werden können und Sie einen nutzerfreundlichen Link zum Teilen und Verschicken haben, sollten Sie ein möglichst knappes aber aussagekräftiges slug wählen, z.B. „figurenuhren“. Erlaubt sind nur Kleinbuchstaben und Ziffern, Wörter werden durch einen Bindestrich getrennt.
 
-Die **Farbpalette** legt fest, welche Kombinationen aus Hintergrund- und Textfarben Ihnen in der Ausstellung zur Verfügung stehen werden. Zur Auswahl stehen sieben Paletten aus aufeinander abgestimmten Farbwerten:
+### Farbpaletten
 
-#### Palette 1
+Die Farbpalette legt fest, welche Kombinationen aus Hintergrund- und Textfarben Ihnen in der Ausstellung zur Verfügung stehen werden. Sie müssen selbstverständlich nicht alle Optionen nutzen, die eine Palette bietet. Oft wird es sinnvoll sein, die Ausstellung mit 2 oder 3 der in einer Palette angebotenene Farbkombinationen zu gestalten. Die folgenden Hinweise zum möglichen Einsatz der jeweiligen Palette sind lediglich als Anregungen zu verstehen.
 
-!![Palette 1][PL-1]
+Zur Auswahl stehen sieben Paletten aus aufeinander abgestimmten Farbwerten:
 
-[Palette 1 im Ausstellungskontext](https://www.deutsche-digitale-bibliothek.de)
+#### Palette a
 
-#### Palette 2
+Sehr buntes, poppiges Farbschema. Möglicher Einsatz: Popkultur, Kinder, Sommer, Zirkus, große Formen …
 
-!![Palette 2][PL-2]
+![Palette a][PL-1]
 
-[Palette 2 im Ausstellungskontext](https://www.deutsche-digitale-bibliothek.de)
+#### Palette b
 
-#### Palette 3
+Gedämpft komplementäres, extravagantes Farbschema. Möglicher Einsatz: Nachtleben, Süden, Adel, Mode, Nahrung/Kochen, …
 
-!![Palette 3][PL-3]
+![Palette b][PL-2]
 
-[Palette 3 im Ausstellungskontext](https://www.deutsche-digitale-bibliothek.de)
+#### Palette c
 
-#### Palette 4
+Dezentes, pastelliges Farbschema. Möglicher Einsatz: Sach- und Wissenschaftsthemen mit dezenter Hintergrundgestaltung, Technik, Kosmetik, Schnee und Eis, zarte und feingliedrige Objekte, …
 
-!![Palette 4][PL-4]
+![Palette c][PL-3]
 
-[Palette 4 im Ausstellungskontext](https://www.deutsche-digitale-bibliothek.de)
+#### Palette d
 
-#### Palette 5
+Erdiges Farbschema mit Kontrast. Möglicher Einsatz: Themen rund um Wald und Wiesen, Tiere, Gärten, Landschaften, …
 
-!![Palette 5][PL-5]
+![Palette d][PL-4]
 
-[Palette 5 im Ausstellungskontext](https://www.deutsche-digitale-bibliothek.de)
+#### Palette e
 
-#### Palette 6
+Warmes, elegantes Farbschema. Möglicher Einsatz: in Zweier-Farbkombination „creme“ plus eine weitere Farbe für viele Sachthemen mit fröhlich-warmer Grundstimmung, z.B. Ernährung, Sommer, Strand, Mode, Reisen, …
 
-!![Palette 6][PL-6]
+![Palette e][PL-5]
 
-[Palette 6 im Ausstellungskontext](https://www.deutsche-digitale-bibliothek.de)
+#### Palette f
 
-#### Palette 7
+Natürlich, bunte Farbpalette. Möglicher Einsatz: Sach- und Wissenschaftsthemen, Tag und Nacht, Herbst, Wald und Natur, Märchen und Sagen, …
 
-!![Palette 7][PL-7]
+![Palette f][PL-6]
 
-[Palette 7 im Ausstellungskontext](https://www.deutsche-digitale-bibliothek.de)
+#### Palette g
+
+Kühlere Farbpalette in Pastell. Sachlich, unaufgeregt. Möglicher Einsatz: Winter, Eis, Wasser, Sach- und Wissenschaftsthemen mit dezenter Hintergrundgestaltung, Business, Technik …
+
+![Palette g][PL-7]
 
 
-[PL-1]: img/PL-1.jpg "Palette 1"
-[PL-2]: img/PL-2.jpg "Palette 2"
-[PL-3]: img/PL-3.jpg "Palette 3"
-[PL-4]: img/PL-4.jpg "Palette 4"
-[PL-5]: img/PL-5.jpg "Palette 5"
-[PL-6]: img/PL-6.jpg "Palette 6"
-[PL-7]: img/PL-7.jpg "Palette 7"
+[PL-1]: img/PL-1.jpg "Palette a"
+[PL-2]: img/PL-2.jpg "Palette b"
+[PL-3]: img/PL-3.jpg "Palette c"
+[PL-4]: img/PL-4.jpg "Palette d"
+[PL-5]: img/PL-5.jpg "Palette e"
+[PL-6]: img/PL-6.jpg "Palette f"
+[PL-7]: img/PL-7.jpg "Palette g"

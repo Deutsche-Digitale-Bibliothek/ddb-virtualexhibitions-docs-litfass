@@ -12,7 +12,7 @@ Das Slider-Element ist als Container zu verstehen, in dem die horizontal anzuzei
 
 !![Abb. C.4-2 – Slider durch Zuweisung des Seitenlayouts anlegen][C-4_2]
 
-Geben Sie dem Slider-Element einen Titel, damit Sie ihn in Ihrer Seitenliste identifizieren können. Im Frontend wird dieser Titel nicht ausgegeben. Auf die Zuweisung einer Hintergrundfarbe können Sie verzichten, da die Hintergrundfarben über die im Slider enthaltenen Seiten individuell geregelt werden.
+Geben Sie dem Slider-Element einen Titel, damit Sie ihn in Ihrer Seitenliste identifizieren können. Im Frontend wird dieser Titel nicht ausgegeben nicht auf der Seite ausgegeben sondern nur in der Navigation. Für die Navigation sind kurze, aussagekräftige Titel am besten geeignet. Auf die Zuweisung einer Hintergrundfarbe können Sie verzichten, da die Hintergrundfarben über die im Slider enthaltenen Seiten individuell geregelt werden.
 
 In der Liste Ihrer Ausstellungsseiten erscheint nun ein Balken mit dem Zusatz „Anfang eines Sliders ⬇“ und einer mit dem Zusatz „Ende eines Sliders ⬆“.
 

@@ -1,6 +1,6 @@
 ## B.5 Objekte suchen
 
-DDBstudio bietet Ihnen mehrere Möglichkeiten, ein bestimmtes Objekt in der Liste der angelegten Objekte schnell und komfortabel zu finden. Mit Hilfe des Buttons „Objekte suchen“ über der Objektliste gelangen Sie auf die Seite „Objekte suchen“.
+DDBstudio bietet Ihnen mehrere Möglichkeiten, ein bestimmtes Objekt in der Liste der angelegten Objekte schnell und komfortabel zu finden. Sie können zunächst die Schnellsuche, also den Suchschlitz direkt unter der Kopfleiste, verwenden. Sehr viel treffsicherer ist allerdings die Suchfunktion auf Ebene der Objektlisten. Mit Hilfe des Buttons „Objekte suchen“ über der Objektliste gelangen Sie auf die Seite „Objekte suchen“.
 
 !![Abb. B.5-1 – Die Suchmaske der Objektsuche][B-5_1]
 

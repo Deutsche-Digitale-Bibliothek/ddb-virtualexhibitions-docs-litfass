@@ -22,7 +22,7 @@ Wie bei der Startseite können Sie hier eine Hintergrundfarbe auswählen. Klicke
 
 #### Vorschaubild
 
-Das Vorschaubild erscheint in der Ausstellungsnavigation neben dem Titel der Seite. Bitte laden Sie ein geeignetes Bild hoch. In der Regel ist dies ein passender Ausschnitt aus dem auf der Seite präsentierten Objekt bzw. Medium von mindestens 92 x 71 px (Breite x Höhe). Die doppelte Auflösung ergibt auch auf Geräten mit Retina-Display ein brillantes Bild, größere Dateien sind nicht sinnvoll. Wenn kein Bild hochgeladen wurde, erzeugt Omeka ein Vorschaubild aus dem eingebundenen Medium der Seite. Dabei kann naturgemäß kein für dieses Format günstiger Bildausschnitt gewählt werden. Nutzen Sie deshalb bitte die Möglichkeit, ein speziell angefertigtes Vorschaubild hochzuladen.
+Das Vorschaubild erscheint in der Ausstellungsnavigation neben dem Titel der Seite. Bitte laden Sie ein geeignetes Bild hoch. In der Regel ist dies ein passender Ausschnitt aus dem auf der Seite präsentierten Objekt bzw. Medium von mindestens 92 x 71 px (Breite x Höhe). Die doppelte Auflösung ergibt auch auf Geräten mit Retina-Display ein brillantes Bild, größere Dateien sind nicht sinnvoll. Wenn kein Bild hochgeladen wurde, erzeugt Omeka ein Vorschaubild aus dem eingebundenen Medium der Seite. Dabei kann naturgemäß kein für dieses Format günstiger Bildausschnitt gewählt werden. Nutzen Sie deshalb bitte die Möglichkeit, ein speziell angefertigtes Vorschaubild hochzuladen. Auch hier können Sie Bilder mit transparentem Hintergrund (.png oder .gif) oder animierte .gif-Bilder verwenden.
 
 #### Auswahl eines Layouts
 

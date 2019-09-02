@@ -14,10 +14,21 @@ Um das Objekt mit einer Mediendatei – dem Digitalisat des Objekts, das Sie in 
 
     * .jpg (Joint Photographic Experts Group)
     * .png (Portable Network Graphics)
+    * .gif (Graphics Interchange Format)
 
     Dateien in unkomprimierten Formaten (z.B. .tiff) konvertieren Sie bitte vor dem Upload in .jpg oder .png. 
     
     PDF-Dateien können nicht zur Repräsentation des Objekts verwendet werden.
+
+Auf den Ausstellungsseiten steht für die eingebundenen Bilder später ein Zoomtool zur Verfügung. Die Nutzer*innen können die Bilder vergrößern, bis die native Auflösung des eingestellten Bildes erreicht ist, also bis ein Pixel des Bildes einem Pixel in der Frontend-Ausgabe entspricht. Wenn Sie Ihren Besucher*innen diese Möglichkeit bieten wollen, sollten Sie ausreichend große, d.h. hochaufgelöste Bilder verwenden. Für die Ausgabe im Kontext der Seite, also im ungezoomten Zustand, verwendet DDBstudio ein Vorschaubild in reduzierter Größe. Das Einstellen großer, hochauflösender Bilder verlangsamt also den Aufruf der eigentlichen Ausstellungsseiten nicht, soweit es sich um Text-Bild-Kombinationen handelt. Siehe auch den Abschnitt „Sinnvolle Bildgrößen“ im Anhang. [$QV]
+
+Zoombarkeit ist aber auch kein Selbstzweck. Wenn Sie etwa als Archivdokument ein Typoskript präsentieren, trägt es wahrscheinlich zum Ausstellungserlebnis wenig bei, wenn man es so weit heranzoomen kann, dass die Holzfasern im Papier erkennbar werden. Verstehen Sie die Zoomfunktion als Gestaltungselement, das Sie im Sinne Ihrer kuratorischen Konzeption einsetzen können (aber nicht müssen).     
+
+!!! note "Transparente Hintergründe und Animationen"
+
+    Gerade im Design von DDBstudio mit den abgestimmten farbigen Hintergründen können Sie sehr schöne Effekte mit freigestellten Objektbildern erzielen, also mit Darstellungen, bei denen der Hintergrund eine Alphatransparenz aufweist. Möglich ist dies in den Formaten .png und .gif. Für hochauflösende Bilder mit nuancierter Farbigkeit sollten Sie .png-Bilder verwenden.
+
+    Auch animierte .gif-Bilder können Ihre Ausstellung beleben. Gedacht ist dieses Format allerdings für sehr kurze, in Endlosschleife laufende Animationen. Wenn die Bewegtbildabfolge komplexer und länger wird, empfehlen wir, „richtige“ Videos einzusetzen. Sie sind dafür besser geeignet, bieten den Nutzer*innen die Möglichkeit, die Wiedergabe zu kontrollieren und werden gestreamt, nicht auf einmal geladen. Längere .gif-Animationen werden schnell sehr groß, was die Datenmenge angeht.
 
 Nachdem Sie die Änderungen übernommen haben, wird die verknüpfte Datei auf den Server geladen (was bei größeren Dateien einige Zeit dauern kann) und anschließend auf der Objektseite als Vorschaubild angezeigt.  Wenn Sie nun wieder in den Modus „Bearbeiten“ und dort zum Reiter „Dateien“ wechseln, erscheint der Name der verknüpften Datei in einem Balken mit Textlink zum Löschen der Datei. Auch das Löschen wird erst beim Speichern des Objekts wirksam.
 
@@ -39,11 +50,11 @@ Aus technischen Gründen werden Videos nicht als Dateien eingebunden, sondern ü
 
 Hier wählen Sie zunächst die Videoplattform aus, dann die ID des Videos auf der betreffenden Plattform. Die ID können Sie auf Vimeo über den Button „Teilen“ abrufen. Tragen Sie bitte nur die ID selbst in das Feld ein, nicht die Domain der Plattform (also **ohne** https://vimeo.com/). Wenn Sie ein Video aus der Deutschen Digitalen Bibliothek verwenden, rufen Sie das betreffende Objekt in der DDB auf und kopieren die ID aus der URL der Seite (aus der Adresszeile oder über „Link auf diese Seite“); es handelt sich um die Zeichenfolge hinter „.../item/“.
 
-Über die Felder „Startzeit“ und „Stoppzeit“ können Sie festlegen, dass in der Ausstellung nur eine bestimmte Sequenz aus dem Video abgespielt wird. Mit „Übernehmen“ bestätigen Sie Ihre Eingaben, gespeichert werden sie erst beim Speichern des Objekts.
+Wenn die Video-Quelle die DDB ist, können Sie über die Felder „Startzeit“ und „Stoppzeit“ festlegen, dass in der Ausstellung nur eine bestimmte Sequenz aus dem Video abgespielt wird. Mit „Übernehmen“ bestätigen Sie Ihre Eingaben, gespeichert werden sie erst beim Speichern des Objekts.
 
 ### B.4.4 Mehrseitige Objekte zum Durchblättern im Bookviewer
 
-Auf den Seiten Ihrer Ausstellung wird immer nur ein Digitalisat ausgegebene. Wenn Sie eine Serie von Objekten präsentieren möchten, können Sie für jedes Objekt eine Seite anlegen und ggf. das Slider-Modul nutzen [$QV]. 
+Auf den Seiten Ihrer Ausstellung wird immer nur ein Digitalisat ausgegeben. Wenn Sie eine Serie von Objekten präsentieren möchten, können Sie für jedes Objekt eine Seite anlegen und ggf. das Slider-Modul nutzen [$QV]. 
 
 Bei bestimmten Objekten, besonders mehrseitigen Publikationen, Heften etc., können Sie eine Präsentation in einem Bookviewer verwenden, der außerhalb der Ausstellung aufgerufen wird. Er dient deshalb eher der vertiefenden Beschäftigung mit dem Material und ist nicht mehr integraler Bestandteil der Ausstellung.
 

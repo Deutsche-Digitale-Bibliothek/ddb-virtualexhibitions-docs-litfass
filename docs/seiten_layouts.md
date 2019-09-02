@@ -40,7 +40,7 @@ Das Layout sorgt bei der Ausgabe im Frontend dafür, dass die Medienobjekte – 
 
 #### Layout 2: Nur Medienobjekt
 
-Bei diesem Layout wird das Objekt ohne begleitenden Text zentriert auf der Seite ausgegeben.
+Bei diesem Layout wird das Objekt ohne Seitentitel und ohne begleitenden Text zentriert auf der Seite ausgegeben.
 
 !![Abb. C.3-5 – Layout 2: Nur Text][C-3_5]
 
@@ -84,7 +84,7 @@ Dieses Layout gibt ein Zitat in typografisch markanter Form groß auf einer anso
 
 Mit Seiten im Layout „Zwischentitel“ können Sie Ihre Ausstellung in Abschnitte gliedern. Ausgegeben wird der Seitentitel als große Überschrift; vorangestellt ist eine automatisch erzeugte Nummerierung. Wenn Sie ein Objekt einbinden, wird dieses als Hintergrundbild gezeigt. Ansonsten ist der Hintergrund einfarbig.
 
-Auch in der Ausstellungsnavigation sind die Seiten mit Layout „Zwischentitel“ hervorgehoben. Der Menüeintrag ist mit der Hintergrundfarbe hinterlegt (auch wenn Sie ein Objekt als Hintergrund gewählt haben), und in der linken Icon-Spalte der Navigation erscheint die fortlaufende Nummer.
+Auch in der Ausstellungsnavigation sind die Seiten mit Layout „Zwischentitel“ hervorgehoben. Der Menüeintrag ist mit der Hintergrundfarbe (der Ausstellung, nicht der Seite) hinterlegt, und zwar auch, wenn Sie ein Objekt als Hintergrund gewählt haben; in der linken Icon-Spalte der Navigation erscheint die fortlaufende Nummer.
 
 Sie können auch hier die Positionierung des Hintergrund-Objekts über ein Auswahlmenü steuern.
 

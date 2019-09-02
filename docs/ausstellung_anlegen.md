@@ -30,6 +30,8 @@ Ein Hintergrundbild stellen Sie ein, indem Sie über die Schaltfläche „Datei 
 
     Für die kachelfüllende Anzeige des Hintergrundbildes wird der Bildausschnitt an die jeweilige Bildschirmporportion angepasst. Dabei wird das Bild horizontal und vertikal mittig positioniert und rechts und links bzw. oben und unten nur soviel angezeigt, dass die Fläche ausgefüllt ist. Ob Ihr Hintergrundbild unter diesen Bedingungen gestalterisch und inhaltlich ‚funktioniert‘, probieren Sie am besten, indem Sie nach dem Einstellen im Frontend das Fenster Ihres Browsers in unterschiedliche Formate bringen.
 
+    Sie können übrigens auch freigestellte Bilder mit transparenten Hintergründen verwenden (.png mit Alphatransparenz). Dann erscheint z.B. ein freigestelltes Objekt vor farbigem Grund.
+
 ### C.1.3 Teilhabende Institutionen
 
 In diesem Abschnitt machen Sie Angaben zu den Institutionen, die am Zustandekommen der Ausstellung beteiligt waren. Diese Angaben erscheinen im Frontend auf der Kachel „Team“, die – wie das Impressum und die Datenschutzerklärung – fest eingebaut sind und von Ihnen nicht eigens angelegt werden müssen.
