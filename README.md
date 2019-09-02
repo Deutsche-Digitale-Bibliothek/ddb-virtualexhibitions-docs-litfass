@@ -15,3 +15,6 @@ Folgen Sie den Anweisungen in der [MkDocs-Dokumentation](http://www.mkdocs.org/#
 Folgen Sie den Anweisungen zu GitHub in der [MkDocs-Dokumentation](http://www.mkdocs.org/user-guide/deploying-your-docs/).
 
 ## Dokumentation bei GitHub
+
+Die aktuelle Version der gh-pages finden Sie unter:  
+[deutsche-digitale-bibliothek.github.io/ddb-virtualexhibitions-docs-litfass/](https://deutsche-digitale-bibliothek.github.io/ddb-virtualexhibitions-docs-litfass/)
