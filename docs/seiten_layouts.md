@@ -28,7 +28,7 @@ Bestätigen Sie abschließend Ihre Einstellungen mit „OK“ oder verwerfen Sie
 
 ### C.3.2 Die acht Seiten-Layouts 
 
-#### Layout 1: Medienobjekt und Text
+#### Layout 1: Text und Objekt
 
 Das Basis-Layout ermöglicht die einfache Kombination von Text und Objekt. Sie können über das Auswahlfeld „Textposition“ festlegen, ob der Text links und das Medienobjekt rechts erscheinen soll oder umgekehrt.
 
@@ -36,33 +36,33 @@ Medienobjekt kann bei diesem Seiten-Layout ein Bild sein, aber auch ein Video, e
 
 Das Layout sorgt bei der Ausgabe im Frontend dafür, dass die Medienobjekte – angepasst an die aktuellen Proportionen des Browserfensters – in optimaler Größe dargestellt werden. Bei etwas längeren Texte kann und wird es vorkommen, dass der Text mehr Raum einnimmt, als neben dem Medium zur Verfügung steht. Er läuft dann unten aus dem Bildschirm und lässt sich separat scrollen. Wenn Sie mit kürzeren Texten auskommen, ist die Bedienung für die BesucherInnen Ihrer virtuellen Ausstellung leichter, und kürzere Texte haben bei einem Onlinemedium größere Chancen, tatsächlich gelesen zu werden.
 
-!![Abb. C.3-4 – Layout 1: Medienobjekt und Text][C-3_4]
+!![Abb. C.3-4 – Layout 1:Text und Objekt][C-3_4]
 
-#### Layout 2: Nur Medienobjekt
+#### Layout 2: Nur Objekt
 
 Bei diesem Layout wird das Objekt ohne Seitentitel und ohne begleitenden Text zentriert auf der Seite ausgegeben.
 
-!![Abb. C.3-5 – Layout 2: Nur Text][C-3_5]
+!![Abb. C.3-5 – Layout 2: Nur Objekt][C-3_5]
 
 #### Layout 3: Nur Text
 
 Bei diesem Layout wird nur ein Text vor einfarbigem Hintergrund ausgegeben. Es eignet sich für etwas längere Lesetexte. Da Sie eine virtuelle **Ausstellung** gestalten und kein Buch, sollten Sie dieses Layout sparsam verwenden, etwa als Einleitung für eine Folge von Exponaten.
 
-!![Abb. C.3-6 – Layout 3: Nur Medienobjekt][C-3_6]
+!![Abb. C.3-6 – Layout 3: Nur Text][C-3_6]
 
-#### Layout 4: Seitlicher Titel und Text
+#### Layout 4: Nur Text mit seitlicher Überschrift
 
 Die Überschrift ist bei diesem Layout neben den Text gerückt. Über das Auswahlfeld „Textposition (Fließtext)“ legen Sie fest, ob der Text links (Überschrift rechts) oder rechts (Überschrift links) angezeigt wird. Das Auswahlfeld „Titelposition“ regelt die vertikale Positionierung der Überschrift (oben, mittig, unten).
 
-!![Abb. C.3-7 – Layout 4: Seitlicher Titel und Text][C-3_7]
+!![Abb. C.3-7 – Layout 4: Nur Text mit seitlicher Überschrift][C-3_7]
 
-#### Layout 5: Seitlicher Titel mit variabler Position und Text
+#### Layout 5: Nur Text mit seitlicher Überschrift, variable Position
 
 Auch bei diesem Layout ist die Überschrift seitlich neben den Text gerückt. Die Positionierung links oder rechts erfolgt wiederum über ein Auswahlmenü, über ein zweites Auswahlmenü kann die vertikale Position der Überschrift (oben, Mitte, unten) festgelegt werden.
 
-!![Abb. C.3-8 – Layout 5: Seitlicher Titel mit varialbler Position und Text][C-3_8]
+!![Abb. C.3-8 – Layout 5: Nur Text mit seitlicher Überschrift, variable Position][C-3_8]
 
-#### Layout 6: Positionierbarer Textblock vor Hintergrund-Objekt
+#### Layout 6: Textblock vor Hintergrund-Objekt
 
 Der Text erscheint bei diesem Layout nicht neben dem Objekt, sondern in einer Textbox vor einem aus dem Objekt generierten seitenfüllenden Hintergrund. Die Eingabe im Feld „Textblock“ ist analog zur Eingabe von textlichen Seiteninhalten beim Layout 1 (Text und Objekt).
 
@@ -72,7 +72,7 @@ Sowohl die Position des Textblocks auf der Seite als auch die Positionierung des
 
     Dieses Layout ist für kurze Texte gedacht. Deshalb sind die Texte in der Box nicht scrollbar, müssen also auf jeden Fall mit dem auf einem Bildschirm zur Verfügung stehenden Raum auskommen. Wir empfehlen eine maximale Länge von 600 Zeichen.
 
-!![Abb. C.3-9 – Layout 6: Positionierbarer Textblock vor Hintergrund-Objekt][C-3_9]
+!![Abb. C.3-9 – Layout 6: Textblock vor Hintergrund-Objekt][C-3_9]
 
 #### Layout 7: Zitatblock
 
@@ -80,7 +80,7 @@ Dieses Layout gibt ein Zitat in typografisch markanter Form groß auf einer anso
 
 !![Abb. C.3-10 – Layout 7: Zitatblock][C-3_10]
 
-#### Layout 8: Kapitelüberschrift
+#### Layout 8: Zwischentitel
 
 Mit Seiten im Layout „Zwischentitel“ können Sie Ihre Ausstellung in Abschnitte gliedern. Ausgegeben wird der Seitentitel als große Überschrift; vorangestellt ist eine automatisch erzeugte Nummerierung. Wenn Sie ein Objekt einbinden, wird dieses als Hintergrundbild gezeigt. Ansonsten ist der Hintergrund einfarbig.
 
@@ -88,17 +88,17 @@ Auch in der Ausstellungsnavigation sind die Seiten mit Layout „Zwischentitel�
 
 Sie können auch hier die Positionierung des Hintergrund-Objekts über ein Auswahlmenü steuern.
 
-!![Abb. C.3-11 – Layout 8: Kapitelüberschrift][C-3_11]
+!![Abb. C.3-11 – Layout 8: Zwischentitel][C-3_11]
 
 [C-3_1]: img/C-3_1.jpg "Abb. C.3-1 – Die Auswahl der Seitenlayouts"
 [C-3_2]: img/C-3_2.jpg "Abb. C.3-2 – Eingabe von Begleittext und Einbinden von Objekten"
 [C-3_3]: img/C-3_3.jpg "Abb. C.3-3 – Einstellungen zur Zoomfunktion"
-[C-3_4]: img/C-3_4.jpg "Abb. C.3-4 – Layout 1: Medienobjekt und Text"
-[C-3_5]: img/C-3_5.jpg "Abb. C.3-5 – Layout 2: Nur Text"
-[C-3_6]: img/C-3_6.jpg "Abb. C.3-6 – Layout 3: Nur Medienobjekt"
-[C-3_7]: img/C-3_7.jpg "Abb. C.3-7 – Layout 4: Seitlicher Titel und Text"
-[C-3_8]: img/C-3_8.jpg "Abb. C.3-8 – Layout 5: Seitlicher Titel mit variabler Position und Text"
-[C-3_9]: img/C-3_9.jpg "Abb. C.3-9 – Layout 6: Positionierbarer Textblock vor Hintergrund-Objekt"
+[C-3_4]: img/C-3_4.jpg "Abb. C.3-4 – Layout 1: Text und Objekt"
+[C-3_5]: img/C-3_5.jpg "Abb. C.3-5 – Layout 2: Nur Objekt"
+[C-3_6]: img/C-3_6.jpg "Abb. C.3-6 – Layout 3: Nur Text"
+[C-3_7]: img/C-3_7.jpg "Abb. C.3-7 – Layout 4: Nur Text mit seitlicher Überschrift"
+[C-3_8]: img/C-3_8.jpg "Abb. C.3-8 – Layout 5: Nur Text mit seitlicher Überschrift, variable Position"
+[C-3_9]: img/C-3_9.jpg "Abb. C.3-9 – Layout 6: Textblock vor Hintergrund-Objekt"
 [C-3_10]: img/C-3_10.jpg "Abb. C.3-10 – Layout 7: Zitatblock"
-[C-3_11]: img/C-3_11.jpg "Abb. C.3-11 – Layout 8: Kapitelüberschrift"
+[C-3_11]: img/C-3_11.jpg "Abb. C.3-11 – Layout 8: Zwischentitel"
 
