@@ -9,7 +9,6 @@ copyright: ''
 nav:
     - Einleitung: einleitung.md
     - Projekt starten: projekt_starten.md
-    - Redaktionelle Empfehlungen: empfehlungen.md
     - A So funktioniert DDBStudio: 
       - 1. Die fertige Ausstellung - das Frontend: frontend.md
       - 2. Das Omeka Backend: backend.md
