@@ -2,7 +2,7 @@
 
 Für die Präsentation der Exponate und begleitender Texte stehen Ihnen acht Layout-Muster (Templates) zur Verfügung. Sie werden in den folgenden Abschnitten vorgestellt. Einen guten Einstieg bietet die [Musterausstellung von DDBstudio](https://google.com){target=_blank}. Hier können Sie die Layouts und ihre Gestaltungsmöglichkeiten zunächst aus der Perspektive der NutzerInnen betrachten und Ideen für den Aufbau Ihrer eigenen Ausstellung sammeln.
 
-!![Abb. C.3-1 – Die Auswahl der Seitenlayouts][C-3_1]
+!![Abb. C.3-1 – Die Auswahl der Seiten-Layouts][C-3_1]
 
 ### C.3.1 Texte und Objekte
 
@@ -12,7 +12,7 @@ Unabhängig davon, welches Layout Sie wählen, arbeiten Sie im Prinzip immer mit
 
 Der begleitende Text wird im Abschnitt „Seiteninhalt“ über einen Texteditor eingegeben, wie Sie ihn schon vom Anlegen der Objekte kennen. Im Kasten darunter oder darüber binden Sie über die Schaltfläche „Objekt hinzufügen“ ein Objekt auf die Seite ein. Das Objekt müssen Sie zuvor schon angelegt haben ([$QVW] Objekte anlegen).
 
-In der Dialogbox „Objekt hinzufügen“ wählen Sie das Objekt aus der Liste der vorhandenen Objekte durch Klick auf den Balken mit Titel und Vorschaubild aus. Wenn Sie bereits viele Objekte angelegt haben, nutzen Sie am besten das Suchformular. Diese erweiterte Suche bietet zahlreiche Möglichkeiten für die Zusammenstellung von komplexen Suchanfragen, in aller Regel genügt aber die Eingabe eines Suchbegriffs in das Feld „In allen Feldern suchen“. Um die Suche auszulösen, drücken Sie bitte die Enter-Taste. Aus der so erzeugten Trefferliste wählen Sie das gewünschte Objekt durch Klick auf den Balken mit Titel und Vorschaubild.
+In der Dialogbox „Objekt hinzufügen“ wählen Sie das Objekt aus der Liste der vorhandenen Objekte durch Klick auf den Balken mit Titel und Vorschaubild aus. Wenn Sie bereits viele Objekte angelegt haben, nutzen Sie am besten das Suchformular[$QVB.5]. Diese erweiterte Suche bietet zahlreiche Möglichkeiten für die Zusammenstellung von komplexen Suchanfragen, in aller Regel genügt aber die Eingabe eines Suchbegriffs in das Feld „In allen Feldern suchen“. Um die Suche auszulösen, drücken Sie bitte die Enter-Taste. Aus der so erzeugten Trefferliste wählen Sie das gewünschte Objekt durch Klick auf den Balken mit Titel und Vorschaubild.
 
 Abschließend bestätigen Sie die Auswahl über die Schaltfläche „Ausgewähltes Objekt hinzufügen“.
 
@@ -30,11 +30,11 @@ Bestätigen Sie abschließend Ihre Einstellungen mit „OK“ oder verwerfen Sie
 
 #### Layout 1: Text und Objekt
 
-Das Basis-Layout ermöglicht die einfache Kombination von Text und Objekt. Sie können über das Auswahlfeld „Textposition“ festlegen, ob der Text links und das Medienobjekt rechts erscheinen soll oder umgekehrt.
+Das Basis-Layout ermöglicht die einfache Kombination von Text und Objekt. Sie können über das Auswahlfeld „Textposition“ festlegen, ob der Text links und das Objekt rechts erscheinen soll oder umgekehrt.
 
-Medienobjekt kann bei diesem Seiten-Layout ein Bild sein, aber auch ein Video, ein Audio- oder ein 3D-Objekt.
+Objekt kann bei diesem Seiten-Layout ein Bild sein, aber auch ein Video, ein Audio- oder ein 3D-Objekt.
 
-Das Layout sorgt bei der Ausgabe im Frontend dafür, dass die Medienobjekte – angepasst an die aktuellen Proportionen des Browserfensters – in optimaler Größe dargestellt werden. Bei etwas längeren Texte kann und wird es vorkommen, dass der Text mehr Raum einnimmt, als neben dem Medium zur Verfügung steht. Er läuft dann unten aus dem Bildschirm und lässt sich separat scrollen. Wenn Sie mit kürzeren Texten auskommen, ist die Bedienung für die BesucherInnen Ihrer virtuellen Ausstellung leichter, und kürzere Texte haben bei einem Onlinemedium größere Chancen, tatsächlich gelesen zu werden.
+Das Layout sorgt bei der Ausgabe im Frontend dafür, dass die Medienobjekte – angepasst an die aktuellen Proportionen des Browserfensters – in optimaler Größe dargestellt werden. Bei etwas längeren Texten kann und wird es vorkommen, dass der Text mehr Raum einnimmt, als neben dem Medium zur Verfügung steht. Er läuft dann unten aus dem Bildschirm und lässt sich separat scrollen. Wenn Sie mit kürzeren Texten auskommen, ist die Bedienung für die BesucherInnen Ihrer virtuellen Ausstellung leichter, und kürzere Texte haben bei einem Onlinemedium größere Chancen, tatsächlich gelesen zu werden.
 
 !![Abb. C.3-4 – Layout 1:Text und Objekt][C-3_4]
 
@@ -50,17 +50,17 @@ Bei diesem Layout wird nur ein Text vor einfarbigem Hintergrund ausgegeben. Es e
 
 !![Abb. C.3-6 – Layout 3: Nur Text][C-3_6]
 
-#### Layout 4: Nur Text mit seitlicher Überschrift
+#### Layout 4: Seitlicher Titel und Text
 
-Die Überschrift ist bei diesem Layout neben den Text gerückt. Über das Auswahlfeld „Textposition (Fließtext)“ legen Sie fest, ob der Text links (Überschrift rechts) oder rechts (Überschrift links) angezeigt wird. Das Auswahlfeld „Titelposition“ regelt die vertikale Positionierung der Überschrift (oben, mittig, unten).
+Die Überschrift ist bei diesem Layout neben den Text gerückt. Über das Auswahlfeld „Textposition (Fließtext)“ legen Sie fest, ob der Text links (Überschrift rechts) oder rechts (Überschrift links) angezeigt wird.
 
-!![Abb. C.3-7 – Layout 4: Nur Text mit seitlicher Überschrift][C-3_7]
+!![Abb. C.3-7 – Layout 4: Seitlicher Titel und Text][C-3_7]
 
-#### Layout 5: Nur Text mit seitlicher Überschrift, variable Position
+#### Layout 5: Seitlicher Titel mit variabler Position und Text
 
-Auch bei diesem Layout ist die Überschrift seitlich neben den Text gerückt. Die Positionierung links oder rechts erfolgt wiederum über ein Auswahlmenü, über ein zweites Auswahlmenü kann die vertikale Position der Überschrift (oben, Mitte, unten) festgelegt werden.
+Auch bei diesem Layout ist die Überschrift seitlich neben den Text gerückt. Die Positionierung links oder rechts erfolgt wiederum über ein Auswahlmenü, über ein zweites Auswahlmenü kann die vertikale Position der Überschrift (oben, mittig, unten) festgelegt werden.
 
-!![Abb. C.3-8 – Layout 5: Nur Text mit seitlicher Überschrift, variable Position][C-3_8]
+!![Abb. C.3-8 – Layout 5: Seitlicher Titel mit variabler Position und Text][C-3_8]
 
 #### Layout 6: Textblock vor Hintergrund-Objekt
 
@@ -70,7 +70,7 @@ Sowohl die Position des Textblocks auf der Seite als auch die Positionierung des
 
 !!!note "Ein Layout für kurze Texte"
 
-    Dieses Layout ist für kurze Texte gedacht. Deshalb sind die Texte in der Box nicht scrollbar, müssen also auf jeden Fall mit dem auf einem Bildschirm zur Verfügung stehenden Raum auskommen. Wir empfehlen eine maximale Länge von 600 Zeichen.
+    Dieses Layout ist für kurze Texte gedacht. Wir empfehlen eine maximale Länge von 600 Zeichen.
 
 !![Abb. C.3-9 – Layout 6: Textblock vor Hintergrund-Objekt][C-3_9]
 
@@ -90,14 +90,14 @@ Sie können auch hier die Positionierung des Hintergrund-Objekts über ein Auswa
 
 !![Abb. C.3-11 – Layout 8: Zwischentitel][C-3_11]
 
-[C-3_1]: img/C-3_1.jpg "Abb. C.3-1 – Die Auswahl der Seitenlayouts"
+[C-3_1]: img/C-3_1.jpg "Abb. C.3-1 – Die Auswahl der Seiten-Layouts"
 [C-3_2]: img/C-3_2.jpg "Abb. C.3-2 – Eingabe von Begleittext und Einbinden von Objekten"
 [C-3_3]: img/C-3_3.jpg "Abb. C.3-3 – Einstellungen zur Zoomfunktion"
 [C-3_4]: img/C-3_4.jpg "Abb. C.3-4 – Layout 1: Text und Objekt"
 [C-3_5]: img/C-3_5.jpg "Abb. C.3-5 – Layout 2: Nur Objekt"
 [C-3_6]: img/C-3_6.jpg "Abb. C.3-6 – Layout 3: Nur Text"
-[C-3_7]: img/C-3_7.jpg "Abb. C.3-7 – Layout 4: Nur Text mit seitlicher Überschrift"
-[C-3_8]: img/C-3_8.jpg "Abb. C.3-8 – Layout 5: Nur Text mit seitlicher Überschrift, variable Position"
+[C-3_7]: img/C-3_7.jpg "Abb. C.3-7 – Layout 4: Seitlicher Titel und Text"
+[C-3_8]: img/C-3_8.jpg "Abb. C.3-8 – Layout 5: Seitlicher Titel mit variabler Position und Text"
 [C-3_9]: img/C-3_9.jpg "Abb. C.3-9 – Layout 6: Textblock vor Hintergrund-Objekt"
 [C-3_10]: img/C-3_10.jpg "Abb. C.3-10 – Layout 7: Zitatblock"
 [C-3_11]: img/C-3_11.jpg "Abb. C.3-11 – Layout 8: Zwischentitel"
