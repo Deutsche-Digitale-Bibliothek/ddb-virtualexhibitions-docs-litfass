@@ -1,23 +1,9 @@
-## X.0 Haupüberschrift
+!![Deutsche Digitale Bibliothek][logo]
 
-Absatz
+# DDBstudio
 
-Absatz
+## Kuratoren-Handbuch für virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek
 
-![Abb. x.0-1 - Legende „in Anführungszeichen“][X-0_1]
+### Version Litfaß
 
-### X.0.1 Nebenüberschrift
-
-Absatz
-
-„In Anführungszeichen“.
-
-!!!note "Anmerkungskasten Überschrift"
-
-    Absatz
-
-    Absatz
-
-### B.3.3 Teilhabende Institutionen
-
-[X-0_1]: img/X-0_1.jpg "Abb. X.0-1 - Alt-Text „in Anführungszeichen“"
+[logo]: img/logo.png "Deutsche Digitale Bibliothek - Das Netzwerk für Kultur und Wissenschaft"
