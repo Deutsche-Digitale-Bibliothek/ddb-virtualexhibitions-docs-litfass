@@ -12,7 +12,7 @@ Außerdem erscheinen die Metadaten auf der Detailseite zum Objekt, sofern es sic
 
     Wenn die Objekte Ihrer Ausstellung bereits in der DDB verfügbar sind, können Sie sich bei der Eingabe der Metadaten auf die wenigen Felder beschränken, die in der Info-Box ausgegeben werden. Denn das Objekt hat in diesem Fall keine eigene Detailseite im Ausstellungskontext.
 
-    Sollte es vorkommen, dass die in der DDB eingepflegten Metadaten nicht korrekt oder vollständig sein, und es ist für Ihre Ausstellung wichtig, andere oder zusätzlich Daten auszugeben, entfernen Sie den Link zum Objekt in der DDB und geben diese Daten in Omeka ein.
+    Sollte es vorkommen, dass die in der DDB eingepflegten Metadaten nicht korrekt oder vollständig sind, und es ist für Ihre Ausstellung wichtig, andere oder zusätzliche Daten auszugeben, entfernen Sie den Link zum Objekt in der DDB und geben diese Daten in Omeka ein.
 
 !![Abb. D.1-2 – Detailseite zu einem Objekt mit Metadatenausgabe][D-1_2]
 
@@ -70,9 +70,15 @@ URL des Objekts in der Datenbank oder auf der Website der Institution, die das O
 
 ##### Rechtsstatus*
 
+Hier die Copyrightangaben passend zum Rechtsstatus angeben 
+
+**Ausgabe**  Info-Box („Wie darf ich das Objekt nutzen?“), Objekt-Detailseite („Rechtsstatus“), jeweils als Linkziel der zur Lizenz passenden Piktogramme
+
+##### Copyright
+
 Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste 
 
-**Ausgabe** Info-Box („Wie darf ich das Objekt nutzen?“), Objekt-Detailseite („Rechtsstatus“), jeweils als Linkziel der zur Lizenz passenden Piktogramme
+**Ausgabe** Info-Box („Quelle“), Objekt-Detailseite
 
 ##### Typ
 
