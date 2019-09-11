@@ -10,7 +10,7 @@ Um eine solche Ausstellungsseite anzulegen, klicken Sie auf die Schaltfläche �
 
 Die Metadaten der Seite legen den Titel fest, durch den die Seite im Backend auffindbar ist und der (bei den meisten Seitentypen) auch im Frontend als Überschrift ausgegeben wird. 
 
-Sie haben die Möglichkeit bei der Option „Seite die Option Titel im Seiteninhalt anzeigen“ „nein“ zu wählen. Dann können sie eine eigene Überschrift im Format Überschrift 1 setzen. [$QV] Diese Möglichkeit bietet sich unter anderem an, wenn Sie eine lange Überschrift verwenden möchten. Im Ausklapp-Menü erscheint dann der Seitentitel (kurz), auf der Seite der ausführliche Titel.
+Sie haben die Möglichkeit, bei der Option „Titel im Seiteninhalt anzeigen“ „nein“ zu wählen. Dann können sie eine eigene Überschrift im Format Überschrift 1 setzen. [$QV] Diese Möglichkeit bietet sich unter anderem an, wenn Sie eine lange Überschrift verwenden möchten. Im Ausklapp-Menü erscheint dann der Seitentitel (kurz), auf der Seite der ausführliche Titel.
 
 Zudem werden hier einige Einstellungen vorgenommen, die Typ und Erscheinungsbild der betreffenden Seite steuern: 
 
