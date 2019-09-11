@@ -4,6 +4,6 @@
 
 ## Kuratoren-Handbuch für virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek
 
-### Version Litfaß
+### Litfaß-Design
 
 [logo]: img/logo.png "Deutsche Digitale Bibliothek - Das Netzwerk für Kultur und Wissenschaft"
