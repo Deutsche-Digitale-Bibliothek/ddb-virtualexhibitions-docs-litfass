@@ -12,8 +12,8 @@ In der Rubrik „Objekte“ legen Sie die ‚Exponate‘ an und verwalten sie.
 
 Unter „Ausstellung“ legen Sie die einzelnen Seiten der Ausstellung an, wählen aus verschiedenen Layouts und pflegen Exponate, Bildunterschriften und Erklärtexte ein. 
 
-!![Abb. A.2-1 - Das Backend einer neu angelegten Omeka-Installation][A-2_1]
+!![Abb. A.2-1 – Das Backend einer neu angelegten Omeka-Installation][A-2_1]
 
 Eine weitere Navigation befindet sich in der Kopfzeile neben Ihrem Benutzernamen. Über „Mein Konto“ verwalten Sie Ihre Benutzerdaten; hier können Sie ggf. Ihr Passwort ändern. Das Logout erfolgt über den Textlink „Abmelden“ oben rechts.
 
-[A-2_1]: img/A-2_1.jpg "Abb. A.2-1 - Das Backend einer neu angelegten Omeka-Installation"
+[A-2_1]: img/A-2_1.jpg "Abb. A.2-1 – Das Backend einer neu angelegten Omeka-Installation"
