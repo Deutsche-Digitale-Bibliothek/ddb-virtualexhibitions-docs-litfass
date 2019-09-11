@@ -22,7 +22,7 @@ Wenn Sie mit der Eingabe der Metadaten zu einem Objekt fertig sind, sichern Sie 
 
 Mit einem Klick auf den Titel rufen Sie eine Detailseite zum Objekt auf. Sie zeigt die bereits eingegebenen Metadaten in einer Übersicht. Über die Schaltfläche „Bearbeiten“ können Sie das Objekt weiter editieren. Aus der Objektliste kommen Sie auch über den Textlink „Bearbeiten“ direkt zur Eingabemaske.
 
-!![Abb. B.3-4 – Metadaten des Objekts auf der Seite Übersichtsseite zum Objekt][B-3_4]
+!![Abb. B.3-4 – Metadaten des Objekts auf der Übersichtsseite zum Objekt][B-3_4]
 
 Leider gibt es in der verwendeten Ausstellungs-Software keine Möglichkeit, bei der Bearbeitung der Metadaten die schon vorgenommenen Eingaben zwischenzuspeichern, ohne die Seite „Objekt # … bearbeiten“ zu verlassen und auf die Übersichtsseite aller Objekte zu gelangen.
 
@@ -33,4 +33,4 @@ Wenn Sie die Metadaten eines bereits angelegten Objekts ergänzen oder ändern m
 [B-3_1]: img/B-3_1.jpg "Abb. B.3-1 – Aufruf der Eingabemaske für Metadaten aus Objektlisten"
 [B-3_2]: img/B-3_2.jpg "Abb. B.3-2 – Eingabemaske für Metadaten auf der Seite „Objekt # ... bearbeiten“"
 [B-3_3]: img/B-3_3.jpg "Abb. B.3-3 – Liste aller Objekte"
-[B-3_4]: img/B-3_4.jpg "Abb. B.3-3 – Metadaten des Objekts auf der Seite Übersichtsseite zum Objekt"
+[B-3_4]: img/B-3_4.jpg "Abb. B.3-3 – Metadaten des Objekts auf der Übersichtsseite zum Objekt"
