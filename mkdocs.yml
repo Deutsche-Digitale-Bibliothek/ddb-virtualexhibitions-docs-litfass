@@ -7,7 +7,6 @@ copyright: ''
 
 # Structure
 nav:
-    - Start: index.md
     - Einleitung: einleitung.md
     - Projekt starten: projekt_starten.md
     - Redaktionelle Empfehlungen: empfehlungen.md
