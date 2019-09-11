@@ -30,104 +30,104 @@ z. B. Untertitel, Originaltitel in anderer Sprache, gleichwertiger Titel, urspr�
 
 ##### Beschreibung
 
-Ausführliche Beschreibung des Objekts.
+Ausführliche Beschreibung des Objekts  
 **Ausgabe**: Objekt-Detailseite
 
 ##### Kurzbeschreibung
 
-Kurze Beschreibung des Objekts
+Kurze Beschreibung des Objekts 
 **Ausgabe**: Info-Box, Objekt-Detailseite
 
 ##### Name der Institution*
 
-Offizielle Bezeichnung der Institution, die das Objekt besitzt
+Offizielle Bezeichnung der Institution, die das Objekt besitzt 
 **Ausgabe**: Info-Box, Objekt-Detailseite („Aus der Sammlung von“)
 
 ##### URL der Institution
 
-Internet-Präsenz der Institution, die das Objekt besitzt
+Internet-Präsenz der Institution, die das Objekt besitzt 
 **Ausgabe**: als Ziel hinter dem verlinkten Namen der Institution: Info-Box, Objekt-Detailseite
 
 ##### Link zum Objekt in der DDB
 
-URL des Objekts im Portal der DDB. **Wichtig:** Die korrekte URL erhalten Sie nur, indem Sie das Objekt in der Deutschen Digitalen Bibliothek aufrufen und dort auf der Objektseite auf den Link „Link auf diese Seite“ klicken, der direkt über dem Titel des Objekts zu finden ist
+URL des Objekts im Portal der DDB. **Wichtig:** Die korrekte URL erhalten Sie nur, indem Sie das Objekt in der Deutschen Digitalen Bibliothek aufrufen und dort auf der Objektseite auf den Link „Link auf diese Seite“ klicken, der direkt über dem Titel des Objekts zu finden ist 
 **Ausgabe**: Info-Box, als Linkziel von „Zum Objekt >>“ (Wenn kein Link zum Objekt in der DDB vorhanden ist, führt dieser Link zur Detailseite.)
 
 ##### Link zum Objekt bei der datengebenden Institution
 
-URL des Objekts in der Datenbank oder auf der Website der Institution, die das Objekt besitzt
+URL des Objekts in der Datenbank oder auf der Website der Institution, die das Objekt besitzt 
 
 **Ausgabe**: Objekt-Detailseite 
 **Anmerkung**: Bitte **nur** dann ausfüllen, wenn das Objekt **nicht** in der Deutschen Digitalen Bibliothek zu finden ist. Andernfalls unbedingt leer lassen!
 
 ##### Rechtsstatus*
 
-Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste
+Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste 
 **Ausgabe** Info-Box („Wie darf ich das Objekt nutzen?“), Objekt-Detailseite („Rechtsstatus“), jeweils als Linkziel der zur Lizenz passenden Piktogramme
 
 ##### Typ
 
-Die Art des Objekts (z. B. Gemälde, Fotografie, Buch ...)
+Die Art des Objekts (z. B. Gemälde, Fotografie, Buch ...) 
 **Ausgabe**: Objekt-Detailseite  
 
 ##### Teil von
 
-Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z. B. erschienen in ..., Band 3 der Reihe ...)
+Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z. B. erschienen in ..., Band 3 der Reihe ...) 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Thema
 
-Thema, Kontext, Indexbegriff, Ort ...
+Thema, Kontext, Indexbegriff, Ort ... 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Beteiligte Personen und Organisationen
 
-Personen, die an der Herstellung des Objekts beteiligt waren, etwa als AutorIn, HerstellerIn, ...
+Personen, die an der Herstellung des Objekts beteiligt waren, etwa als AutorIn, HerstellerIn, ... 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Zeit
 
-Zeitangabe zur Herstellung, zur Laufzeit, Erscheinungsdatum ...
+Zeitangabe zur Herstellung, zur Laufzeit, Erscheinungsdatum ... 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Ort
 
-Herstellungs- oder Erscheinungsort, historische Bezeichnung des Orts, wenn der im Titel genannte Ort nicht der tatsächlich dargestellte Ort ist ...
+Herstellungs- oder Erscheinungsort, historische Bezeichnung des Orts, wenn der im Titel genannte Ort nicht der tatsächlich dargestellte Ort ist ... 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Maße/Umfang
 
-Die für das Objekt passenden Angaben zur Dimension: Abmessungen, Seitenzahl, Länge von Ton- oder Filmaufnahmen, ...
+Die für das Objekt passenden Angaben zur Dimension: Abmessungen, Seitenzahl, Länge von Ton- oder Filmaufnahmen, ... 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Material/Technik
 
-Angaben zum verwendeten Material und zur Technik, z. B. Öl auf Leinwand, Holz, Grisaille, mp3, ...
+Angaben zum verwendeten Material und zur Technik, z. B. Öl auf Leinwand, Holz, Grisaille, mp3, ... 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Sprache
 
-Bei textuellen Objekten die Sprache, in der der Text verfasst ist, ggf. Angaben zur Übersetzung oder Originalsprache
+Bei textuellen Objekten die Sprache, in der der Text verfasst ist, ggf. Angaben zur Übersetzung oder Originalsprache 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Identifikator
 
-Information, die nötig ist, um das Objekt im Bestand der datengebenden Institution zu finden: Signatur, Inventarnummer, ...
+Information, die nötig ist, um das Objekt im Bestand der datengebenden Institution zu finden: Signatur, Inventarnummer, ... 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Anmerkungen
 
-Feld für interne Vermerke, besonders zum Bearbeitungsstand
+Feld für interne Vermerke, besonders zum Bearbeitungsstand 
 **Ausgabe**: wird im Frontend nicht ausgegeben
 
 ##### Förderung
 
-Fördermittelgeber, Förderprogramm
+Fördermittelgeber, Förderprogramm 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Videoquelle
 
-Dieses Feld dient zur Verknüpfung mit einem Video, siehe Abschnitt [$QV objekte_medien.md]
+Dieses Feld dient zur Verknüpfung mit einem Video, siehe Abschnitt [$QV objekte_medien.md] 
 **Ausgabe**: als Video in einem Player (Ausstellungseite und Objekt-Detailseite)
 
 [D-1_1]: img/D-1_1.jpg "Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt"
