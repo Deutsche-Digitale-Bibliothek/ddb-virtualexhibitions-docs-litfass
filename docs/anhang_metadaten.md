@@ -70,13 +70,13 @@ URL des Objekts in der Datenbank oder auf der Website der Institution, die das O
 
 ##### Rechtsstatus*
 
-Hier die Copyrightangaben passend zum Rechtsstatus angeben 
+Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste
 
 **Ausgabe**  Info-Box („Wie darf ich das Objekt nutzen?“), Objekt-Detailseite („Rechtsstatus“), jeweils als Linkziel der zur Lizenz passenden Piktogramme
 
 ##### Copyright
 
-Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste 
+Hier die Copyrightangaben passend zum Rechtsstatus angeben 
 
 **Ausgabe** Info-Box („Quelle“), Objekt-Detailseite
 
