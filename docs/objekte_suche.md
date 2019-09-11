@@ -8,7 +8,7 @@ Die Eingabe in „In allen Feldern suchen“ funktioniert als Freitextsuche in d
 
 Wenn Ihnen die ID des Objekts oder der Objekte bekannt ist, können Sie den dritten Suchschlitz verwenden. 
 
-Die Suche nach dem Kriterium der Sichtbarkeit im Frontend kann nützlich sein, wenn bei der Abnahme der Ausstellung durch Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek bestimmte Objekte auf „nicht sichtbar“ gestellt wurden und Sie gezielt diese Objekte nacharbeiten möchten.
+Die Suche nach dem Kriterium der Sichtbarkeit im Frontend kann nützlich sein, wenn bei der Abnahme der Ausstellung durch Ihre Ansprechperson bei der Deutschen Digitalen Bibliothek bestimmte Objekte auf „nicht sichtbar“ gestellt wurden und Sie gezielt diese Objekte nacharbeiten möchten. Hierfür können Sie auch den Schnellfilter neben der Schaltfläche „Objekte suchen“ nutzen.
 
 [B-5_1]: img/B-5_1.jpg "Abb. B.5-1 – Die Suchmaske der Objektsuche"
 
