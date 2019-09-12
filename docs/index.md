@@ -1,6 +1,6 @@
-!![Deutsche Digitale Bibliothek][logo]
+# Deutsche Digitale Bibliothek
 
-# DDBstudio
+!![][logo]
 
 ## Kuratoren-Handbuch für virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek
 
