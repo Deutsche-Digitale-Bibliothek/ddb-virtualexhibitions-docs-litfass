@@ -58,6 +58,8 @@ Das Feld „Ziel“ legt fest, ob beim Klick auf den Link ein neuer Browser-Tab 
 
 !![Abb. D.2-6 – Dialogfenster zum Setzen eines Links][D-2_6]
 
+Rechts neben dem Kettensymbol finden Sie das Symbol zum Entfernen eines Links. Markieren Sie den Link (oder setzen den Cursor in den Link) und klicken Sie auf das Symbol mit dem gesprengten Kettenglied, dann wird die Verlinkung entfernt.
+
 #### Überschriften
 
 Längere Textpassagen lesen sich leichter, wenn sie durch Zwischenüberschriften gegliedert sind. Um eine Überschrift zu setzen, schreiben Sie den Text der Überschrift in einen eigenen Absatz, markieren diesen und wählen in „Formate“ die betreffende Überschriften-Klasse aus. 
