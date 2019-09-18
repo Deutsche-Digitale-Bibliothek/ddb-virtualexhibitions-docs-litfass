@@ -242,11 +242,10 @@
 <p>Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dienen auch nur technischen Zwecken wie der Verknüpfung mit einer Datenquelle. Angezeigt werden Metadaten nicht direkt auf den Ausstellungs-Seiten selbst, sondern in einer Info-Box, die durch Klick auf das „i“-Icon geöffnet wird. </p>
 <figure id="figure-1"><img alt="Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt" src="img/D-1_1.jpg" title="Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt" /><figcaption>Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt</figcaption>
 </figure>
-<p>Außerdem erscheinen die Metadaten auf der Detailseite zum Objekt, sofern es sich um ein Objekt handelt, das nicht in der DDB vorhanden ist. In diesem Fall gelangt man über den Link „Zum Objekt &gt;&gt;“ zur Seite des Objekts in der DDB, wo es mit den beim Ingest des Objekts eingespielten Metadaten ausgegeben wird.</p>
+<p>Außerdem erscheinen die Metadaten auf der Detailseite zum Objekt, sofern es sich um ein Objekt handelt, das nicht in der DDB vorhanden ist. Bei Objekten, die bereits in der Deutschen Digitalen Bibliothek vorhanden sind, gelangt man über den Link „Zum Objekt &gt;&gt;“ zur Seite des Objekts in der DDB, wo es mit den beim Ingest des Objekts eingespielten Metadaten ausgegeben wird.</p>
 <div class="admonition note">
 <p class="admonition-title">Wenn Sie DDB-Objekte verwenden, müssen Sie nur wenige Metadaten eingeben</p>
 <p>Wenn die Objekte Ihrer Ausstellung bereits in der DDB verfügbar sind, können Sie sich bei der Eingabe der Metadaten auf die wenigen Felder beschränken, die in der Info-Box ausgegeben werden. Denn das Objekt hat in diesem Fall keine eigene Detailseite im Ausstellungskontext.</p>
-<p>Sollte es vorkommen, dass die in der DDB eingepflegten Metadaten nicht korrekt oder vollständig sind, und es ist für Ihre Ausstellung wichtig, andere oder zusätzliche Daten auszugeben, entfernen Sie den Link zum Objekt in der DDB und geben diese Daten in Omeka ein.</p>
 </div>
 <figure id="figure-2"><img alt="Abb. D.1-2 – Detailseite zu einem Objekt mit Metadatenausgabe" src="img/C-1_2.jpg" title="Abb. D.1-2 – Detailseite zu einem Objekt mit Metadatenausgabe" /><figcaption>Abb. D.1-2 – Detailseite zu einem Objekt mit Metadatenausgabe</figcaption>
 </figure>
@@ -255,7 +254,7 @@
 <p>Der Titel des Objekts  </p>
 <p><strong>Ausgabe</strong>: Info-Box, Objekt-Detailseite (als Titel der Seite)</p>
 <h5 id="weiterer-titel">Weiterer Titel<a class="headerlink" href="#weiterer-titel" title="Permanent link">&para;</a></h5>
-<p>z. B. Untertitel, Originaltitel in anderer Sprache, gleichwertiger Titel, ursprünglicher Titel (z. B. Mona Lisa/La Joconde).</p>
+<p>z.B. Untertitel, Originaltitel in anderer Sprache, gleichwertiger Titel, ursprünglicher Titel (z.B. Mona Lisa/La Joconde).</p>
 <p><strong>Ausgabe</strong>: Objekt-Detailseite</p>
 <h5 id="beschreibung">Beschreibung<a class="headerlink" href="#beschreibung" title="Permanent link">&para;</a></h5>
 <p>Ausführliche Beschreibung des Objekts  </p>
@@ -277,16 +276,87 @@
 <p><strong>Ausgabe</strong>: Objekt-Detailseite </p>
 <p><strong>Anmerkung</strong>: Bitte <strong>nur</strong> dann ausfüllen, wenn das Objekt <strong>nicht</strong> in der Deutschen Digitalen Bibliothek zu finden ist. Andernfalls unbedingt leer lassen!</p>
 <h5 id="rechtsstatus">Rechtsstatus*<a class="headerlink" href="#rechtsstatus" title="Permanent link">&para;</a></h5>
-<p>Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste</p>
+<p>Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste mit den folgenden Optionen:</p>
+<ul>
+<li>
+<p>PD <br />
+Public Domain Mark 1.0</p>
+</li>
+<li>
+<p>CC0 1.0<br />
+Public Domain Dedication</p>
+</li>
+<li>
+<p>CC BY 3.0 DE<br />
+<strong>Namensnennung</strong> 3.0 Deutschland</p>
+</li>
+<li>
+<p>CC BY 4.0<br />
+<strong>Namensnennung</strong> 4.0 International</p>
+</li>
+<li>
+<p>CC BY-SA 3.0 DE<br />
+<strong>Namensnennung</strong> - Weitergabe unter gleichen Bedingungen 3.0 Deutschland</p>
+</li>
+<li>
+<p>CC BY-SA 4.0<br />
+<strong>Namensnennung</strong> - Weitergabe unter gleichen Bedingungen 4.0 International</p>
+</li>
+<li>
+<p>CC BY-ND 3.0 DE<br />
+<strong>Namensnennung</strong> - Keine Bearbeitung 3.0 Deutschland</p>
+</li>
+<li>
+<p>CC BY-ND 4.0<br />
+<strong>Namensnennung</strong> - Keine Bearbeitung 4.0 International</p>
+</li>
+<li>
+<p>CC BY-NC 3.0 DE<br />
+<strong>Namensnennung</strong> - Nicht kommerziell 3.0 Deutschland</p>
+</li>
+<li>
+<p>CC BY-NC 4.0<br />
+<strong>Namensnennung</strong> - Nicht kommerziell 4.0 International</p>
+</li>
+<li>
+<p>CC BY-NC-SA 3.0 DE<br />
+<strong>Namensnennung</strong> - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland</p>
+</li>
+<li>
+<p>CC BY-NC-SA 4.0<br />
+<strong>Namensnennung</strong> - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International </p>
+</li>
+<li>
+<p>CC BY-NC-ND 3.0 DE<br />
+<strong>Namensnennung</strong> - Nicht-kommerziell - Keine Bearbeitung 3.0 Deutschland</p>
+</li>
+<li>
+<p>CC BY-NC-ND 4.0<br />
+<strong>Namensnennung</strong> - Nicht-kommerziell - Keine Bearbeitung 4.0 International</p>
+</li>
+<li>
+<p>RV-FZ<br />
+Rechte vorbehalten – Freier Zugang</p>
+</li>
+<li>
+<p>VW<br />
+Verwaistes Werk</p>
+</li>
+<li>
+<p>NUG-KKN<br />
+Nicht urheberrechtlich geschützt – keine kommerzielle Nachnutzung</p>
+</li>
+</ul>
+<p>Ausführliche Informationen zur Verwendung von Lizenzen im Rahmen der Deutschen Digitalen Bibliothek finden Sie <a href="https://www.deutsche-digitale-bibliothek.de/content/ueber-uns/lizenzen-und-rechtehinweise-der-lizenzkorb-der-deutschen-digitalen-bibliothek/" target="_blank">hier ...</a></p>
 <p><strong>Ausgabe</strong>  Info-Box („Wie darf ich das Objekt nutzen?“), Objekt-Detailseite („Rechtsstatus“), jeweils als Linkziel der zur Lizenz passenden Piktogramme</p>
 <h5 id="copyright">Copyright<a class="headerlink" href="#copyright" title="Permanent link">&para;</a></h5>
-<p>Hier die Copyrightangaben passend zum Rechtsstatus angeben </p>
-<p><strong>Ausgabe</strong> Info-Box („Quelle“), Objekt-Detailseite</p>
+<p>Bei Lizenzangaben, die eine <strong>Namensnennung</strong> vorsehen (siehe oben Liste der Lizenzen), wird die in diesem Feld eingetragene Angabe als Quelle ausgegeben, die gennannt werden muss.</p>
+<p><strong>Ausgabe</strong> Info-Box („Quelle“), Objekt-Detailseite („Quelle“)</p>
 <h5 id="typ">Typ<a class="headerlink" href="#typ" title="Permanent link">&para;</a></h5>
-<p>Die Art des Objekts (z. B. Gemälde, Fotografie, Buch ...) </p>
+<p>Die Art des Objekts (z.B. Gemälde, Fotografie, Buch ...) </p>
 <p><strong>Ausgabe</strong>: Objekt-Detailseite  </p>
 <h5 id="teil-von">Teil von<a class="headerlink" href="#teil-von" title="Permanent link">&para;</a></h5>
-<p>Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z. B. erschienen in ..., Band 3 der Reihe ...) </p>
+<p>Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z.B. erschienen in ..., Band 3 der Reihe ...) </p>
 <p><strong>Ausgabe</strong>: Objekt-Detailseite</p>
 <h5 id="thema">Thema<a class="headerlink" href="#thema" title="Permanent link">&para;</a></h5>
 <p>Thema, Kontext, Indexbegriff, Ort ... </p>
@@ -304,7 +374,7 @@
 <p>Die für das Objekt passenden Angaben zur Dimension: Abmessungen, Seitenzahl, Länge von Ton- oder Filmaufnahmen, ... </p>
 <p><strong>Ausgabe</strong>: Objekt-Detailseite</p>
 <h5 id="materialtechnik">Material/Technik<a class="headerlink" href="#materialtechnik" title="Permanent link">&para;</a></h5>
-<p>Angaben zum verwendeten Material und zur Technik, z. B. Öl auf Leinwand, Holz, Grisaille, mp3, ... </p>
+<p>Angaben zum verwendeten Material und zur Technik, z.B. Öl auf Leinwand, Holz, Grisaille, mp3, ... </p>
 <p><strong>Ausgabe</strong>: Objekt-Detailseite</p>
 <h5 id="sprache">Sprache<a class="headerlink" href="#sprache" title="Permanent link">&para;</a></h5>
 <p>Bei textuellen Objekten die Sprache, in der der Text verfasst ist, ggf. Angaben zur Übersetzung oder Originalsprache </p>
