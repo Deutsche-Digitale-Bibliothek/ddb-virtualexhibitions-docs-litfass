@@ -6,13 +6,11 @@ Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dien
 
 !![Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt][D-1_1]
 
-Außerdem erscheinen die Metadaten auf der Detailseite zum Objekt, sofern es sich um ein Objekt handelt, das nicht in der DDB vorhanden ist. In diesem Fall gelangt man über den Link „Zum Objekt >>“ zur Seite des Objekts in der DDB, wo es mit den beim Ingest des Objekts eingespielten Metadaten ausgegeben wird.
+Außerdem erscheinen die Metadaten auf der Detailseite zum Objekt, sofern es sich um ein Objekt handelt, das nicht in der DDB vorhanden ist. Bei Objekten, die bereits in der Deutschen Digitalen Bibliothek vorhanden sind, gelangt man über den Link „Zum Objekt >>“ zur Seite des Objekts in der DDB, wo es mit den beim Ingest des Objekts eingespielten Metadaten ausgegeben wird.
 
 !!! note "Wenn Sie DDB-Objekte verwenden, müssen Sie nur wenige Metadaten eingeben"
 
     Wenn die Objekte Ihrer Ausstellung bereits in der DDB verfügbar sind, können Sie sich bei der Eingabe der Metadaten auf die wenigen Felder beschränken, die in der Info-Box ausgegeben werden. Denn das Objekt hat in diesem Fall keine eigene Detailseite im Ausstellungskontext.
-
-    Sollte es vorkommen, dass die in der DDB eingepflegten Metadaten nicht korrekt oder vollständig sind, und es ist für Ihre Ausstellung wichtig, andere oder zusätzliche Daten auszugeben, entfernen Sie den Link zum Objekt in der DDB und geben diese Daten in Omeka ein.
 
 !![Abb. D.1-2 – Detailseite zu einem Objekt mit Metadatenausgabe][D-1_2]
 
@@ -26,7 +24,7 @@ Der Titel des Objekts
 
 ##### Weiterer Titel
 
-z. B. Untertitel, Originaltitel in anderer Sprache, gleichwertiger Titel, ursprünglicher Titel (z. B. Mona Lisa/La Joconde).
+z.B. Untertitel, Originaltitel in anderer Sprache, gleichwertiger Titel, ursprünglicher Titel (z.B. Mona Lisa/La Joconde).
 
 **Ausgabe**: Objekt-Detailseite
 
@@ -70,25 +68,78 @@ URL des Objekts in der Datenbank oder auf der Website der Institution, die das O
 
 ##### Rechtsstatus*
 
-Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste
+Angabe von Lizenz- oder Rechtehinweis; die Eingabe erfolgt über eine Auswahl-Liste mit den folgenden Optionen:
+
+* PD <br />
+Public Domain Mark 1.0
+
+* CC0 1.0<br />
+Public Domain Dedication
+
+* CC BY 3.0 DE<br />
+**Namensnennung** 3.0 Deutschland
+
+* CC BY 4.0<br />
+**Namensnennung** 4.0 International
+
+* CC BY-SA 3.0 DE<br />
+**Namensnennung** - Weitergabe unter gleichen Bedingungen 3.0 Deutschland
+
+* CC BY-SA 4.0<br />
+**Namensnennung** - Weitergabe unter gleichen Bedingungen 4.0 International
+
+* CC BY-ND 3.0 DE<br />
+**Namensnennung** - Keine Bearbeitung 3.0 Deutschland
+
+* CC BY-ND 4.0<br />
+**Namensnennung** - Keine Bearbeitung 4.0 International
+
+* CC BY-NC 3.0 DE<br />
+**Namensnennung** - Nicht kommerziell 3.0 Deutschland
+
+* CC BY-NC 4.0<br />
+**Namensnennung** - Nicht kommerziell 4.0 International
+
+* CC BY-NC-SA 3.0 DE<br />
+**Namensnennung** - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 3.0 Deutschland
+
+* CC BY-NC-SA 4.0<br />
+**Namensnennung** - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International 
+
+* CC BY-NC-ND 3.0 DE<br />
+**Namensnennung** - Nicht-kommerziell - Keine Bearbeitung 3.0 Deutschland
+
+* CC BY-NC-ND 4.0<br />
+**Namensnennung** - Nicht-kommerziell - Keine Bearbeitung 4.0 International
+
+* RV-FZ<br />
+Rechte vorbehalten – Freier Zugang
+
+* VW<br />
+Verwaistes Werk
+
+* NUG-KKN<br />
+Nicht urheberrechtlich geschützt – keine kommerzielle Nachnutzung
+
+Ausführliche Informationen zur Verwendung von Lizenzen im Rahmen der Deutschen Digitalen Bibliothek finden Sie [hier ...](https://www.deutsche-digitale-bibliothek.de/content/ueber-uns/lizenzen-und-rechtehinweise-der-lizenzkorb-der-deutschen-digitalen-bibliothek/){target=_blank}
 
 **Ausgabe**  Info-Box („Wie darf ich das Objekt nutzen?“), Objekt-Detailseite („Rechtsstatus“), jeweils als Linkziel der zur Lizenz passenden Piktogramme
 
 ##### Copyright
 
-Hier die Copyrightangaben passend zum Rechtsstatus angeben 
+Bei Lizenzangaben, die eine **Namensnennung** vorsehen (siehe oben Liste der Lizenzen), wird die in diesem Feld eingetragene Angabe als Quelle ausgegeben, die gennannt werden muss.
 
-**Ausgabe** Info-Box („Quelle“), Objekt-Detailseite
+**Ausgabe** Info-Box („Quelle“), Objekt-Detailseite („Quelle“)
 
 ##### Typ
 
-Die Art des Objekts (z. B. Gemälde, Fotografie, Buch ...) 
+Die Art des Objekts (z.B. Gemälde, Fotografie, Buch ...) 
 
 **Ausgabe**: Objekt-Detailseite  
 
 ##### Teil von
 
-Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z. B. erschienen in ..., Band 3 der Reihe ...) 
+Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z.B. erschienen in ..., Band 3 der Reihe ...) 
 
 **Ausgabe**: Objekt-Detailseite
 
@@ -124,7 +175,7 @@ Die für das Objekt passenden Angaben zur Dimension: Abmessungen, Seitenzahl, L�
 
 ##### Material/Technik
 
-Angaben zum verwendeten Material und zur Technik, z. B. Öl auf Leinwand, Holz, Grisaille, mp3, ... 
+Angaben zum verwendeten Material und zur Technik, z.B. Öl auf Leinwand, Holz, Grisaille, mp3, ... 
 
 **Ausgabe**: Objekt-Detailseite
 
