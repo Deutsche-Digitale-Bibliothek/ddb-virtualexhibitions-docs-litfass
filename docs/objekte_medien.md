@@ -52,7 +52,9 @@ Hier wählen Sie zunächst die Videoplattform aus, dann die ID des Videos auf de
 
 Das Video [Des Jägers Traum (1903)](https://www.deutsche-digitale-bibliothek.de/item/Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U), das auf dem DDB-Portal unter der URL https://www.deutsche-digitale-bibliothek.de/item/Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U verzeichnet ist, kann also über den Eintrag Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U im Feld „Video-ID“ in eine Ausstellung eingebunden werden.
 
-Wenn die Video-Quelle die DDB ist, können Sie über die Felder „Startzeit“ und „Stoppzeit“ festlegen, dass in der Ausstellung nur eine bestimmte Sequenz aus dem Video abgespielt wird. Mit „Übernehmen“ bestätigen Sie Ihre Eingaben, gespeichert werden sie erst beim Speichern des Objekts. Für Videos von anderen Plattformen steht diese Möglichkeit aktuell nicht zur Verfügung.
+Wenn die Video-Quelle die DDB ist, können Sie über die Felder „Startzeit“ und „Stoppzeit“ festlegen, dass in der Ausstellung nur eine bestimmte Sequenz aus dem Video abgespielt wird. Für Videos von anderen Plattformen steht diese Möglichkeit aktuell nicht zur Verfügung.
+
+Mit „Übernehmen“ bestätigen Sie Ihre Eingaben, gespeichert werden sie erst beim Speichern des Objekts.
 
 ### B.4.4 Mehrseitige Objekte zum Durchblättern im Bookviewer
 
