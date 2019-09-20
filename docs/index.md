@@ -1,4 +1,4 @@
-[![][logo_ddbstudio]](/)
+![][logo_ddbstudio]
 
 ## DDBstudio-Handbuch für virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek
 
