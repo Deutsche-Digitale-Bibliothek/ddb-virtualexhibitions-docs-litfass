@@ -40,7 +40,7 @@ extra:
   wording_next: 'vor'
   wording_previous: 'zurück'
   wording_search_docs: 'Handbuch durchsuchen'
-  wording_docs: 'DDB-Handbuch-Vorlage'
+  wording_docs: 'DDBstudio-Handbuch'
   wording_page_not_found: 'Seite nicht gefunden.'
 
 #css
