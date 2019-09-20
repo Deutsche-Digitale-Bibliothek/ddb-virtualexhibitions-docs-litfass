@@ -1,9 +1,8 @@
-# Deutsche Digitale Bibliothek
+[![][logo_ddbstudio]](/)
 
-!![][logo]
+## DDBstudio-Handbuch für virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek
 
-## Kuratoren-Handbuch für virtuelle Ausstellungen in der Deutschen Digitalen Bibliothek
+[![][logo_ddb]](https://deutsche-digitale-bibliothek.de){target=_blank}
 
-### Litfaß-Design
-
-[logo]: img/ddb-studio-logo.png "Deutsche Digitale Bibliothek - Das Netzwerk für Kultur und Wissenschaft"
+[logo_ddbstudio]: img/Titel_DDB_Studio_Handbuch_1.jpg "DDBstudio - Virtuelle Ausstellungen"
+[logo_ddb]: img/Logo_DDB.png "Deutsche Digitale Bibliothek - Das Netzwerk für Kultur und Wissenschaft"
