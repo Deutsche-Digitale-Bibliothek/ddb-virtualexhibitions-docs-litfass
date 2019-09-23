@@ -4,7 +4,7 @@ Die ‚Exponate‘ Ihrer virtuellen Ausstellung haben Sie nun als Objekte angele
 
 Über den Menüpunkt „Ausstellung“ gelangen Sie auf die Seite „Ausstellung ... bearbeiten“. Hier geben Sie Angaben ein, die die Ausstellung im Ganzen betreffen: Titel, Startseite und Seite zum Team.
 
-![Abb. C.1-1 – Die Seite „Ausstellung ... bearbeiten“][C-1_1]
+!![Abb. C.1-1 – Die Seite „Ausstellung ... bearbeiten“][C-1_1]
 
 ### C.1.1 Metadaten der Ausstellung
 
@@ -18,7 +18,7 @@ Die erste Seite Ihrer Ausstellung zeigt lediglich den Titel und den Untertitel d
 
 Sie haben prinzipiell zwei Optionen: Titel und Untertitel auf einem einfarbigen Hintergrund aus der vordefinierten Farbpalette oder auf einem bildschirmfüllenden Hintergrundbild.
 
-![Abb. C.1-2 – Einstellungen zur Startseite][C-1_2]
+!![Abb. C.1-2 – Einstellungen zur Startseite][C-1_2]
 
 Die Hintergrundfarbe wählen Sie durch Klick auf eines der farbigen Quadrate oder über die Auswahl des entsprechenden Wertes aus der Liste.
 
@@ -36,7 +36,7 @@ Ein Hintergrundbild stellen Sie ein, indem Sie über die Schaltfläche „Datei 
 
 In diesem Abschnitt machen Sie Angaben zu den Institutionen, die am Zustandekommen der Ausstellung beteiligt waren. Diese Angaben erscheinen im Frontend auf der Startseite und der Teamseite, die fest eingebaut ist und von Ihnen nicht eigens angelegt werden muss.
 
-![Abb. C.1-3 – Einstellungen zu den teilhabenden Institutionen][C-1_3]
+!![Abb. C.1-3 – Einstellungen zu den teilhabenden Institutionen][C-1_3]
 
 Jede Institution hat ein Bündel von vier Eingabefeldern für den Namen der Institution, die URL der Internetadresse, auf die der Name verlinken soll, ein Logo und die Angabe der Position. Diese numerische Positionsangabe legt fest, in welcher Reihenfolge die Institutionen auf der Startseite (nur Name) und der Teamseite (Logo mit Name) ausgegeben werden sollen. Entscheidend ist die numerische Relation: Institutionen mit kleineren Zahlenwerten erscheinen weiter vorne.
 
