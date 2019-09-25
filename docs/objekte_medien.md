@@ -50,7 +50,7 @@ Aus technischen Gründen werden Videos nicht als Dateien eingebunden, sondern ü
 
 Hier wählen Sie zunächst die Videoplattform aus, dann die ID des Videos auf der betreffenden Plattform. Die ID können Sie auf Vimeo über den Button „Teilen“ abrufen. Tragen Sie bitte nur die ID selbst in das Feld ein, nicht die Domain der Plattform (also **ohne** https://vimeo.com/). Wenn Sie ein Video aus der Deutschen Digitalen Bibliothek verwenden, rufen Sie das betreffende Objekt in der DDB auf und kopieren die ID aus der URL der Seite (aus der Adresszeile oder über „Link auf diese Seite“); es handelt sich um die Zeichenfolge hinter „.../item/“.
 
-Das Video [Des Jägers Traum (1903)](https://www.deutsche-digitale-bibliothek.de/item/Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U), das auf dem DDB-Portal unter der URL https://www.deutsche-digitale-bibliothek.de/item/Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U verzeichnet ist, kann also über den Eintrag Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U im Feld „Video-ID“ in eine Ausstellung eingebunden werden.
+Das Video [Des Jägers Traum (1903)](https://www.deutsche-digitale-bibliothek.de/item/Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U){target=_blank}, das auf dem DDB-Portal unter der URL https://www.deutsche-digitale-bibliothek.de/item/Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U verzeichnet ist, kann also über den Eintrag Q2AYVOWHLQMIGAXOTNAPWAE4CCJLAW6U im Feld „Video-ID“ in eine Ausstellung eingebunden werden.
 
 Wenn die Video-Quelle die DDB ist, können Sie über die Felder „Startzeit“ und „Stoppzeit“ festlegen, dass in der Ausstellung nur eine bestimmte Sequenz aus dem Video abgespielt wird. Für Videos von anderen Plattformen steht diese Möglichkeit aktuell nicht zur Verfügung.
 

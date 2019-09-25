@@ -40,7 +40,7 @@ Auch der Service [squoosh.app](https://squoosh.app/){target=_blank} bietet die r
 
 #### Für Versierte: Das Commandline-Tool jpeg-archive/jpeg-recompress
 
-Wenn Sie versiert im Umgang mit Tools und Skripten sind, die über die Kommandozeile bedient werden, sollten Sie die Verwendung des Tools [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) in Erwägung ziehen. Es arbeitet mit dem Skript jpeg-recompress, das bei der Bildkompression sonst kaum zu erreichende Ergebnisse erzielt, mit substantiell reduzierten Dateigrößen bei mit bloßem Auge kaum wahrnehmbaren Qualitätseinbußen.
+Wenn Sie versiert im Umgang mit Tools und Skripten sind, die über die Kommandozeile bedient werden, sollten Sie die Verwendung des Tools [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive){target=_blank} in Erwägung ziehen. Es arbeitet mit dem Skript jpeg-recompress, das bei der Bildkompression sonst kaum zu erreichende Ergebnisse erzielt, mit substantiell reduzierten Dateigrößen bei mit bloßem Auge kaum wahrnehmbaren Qualitätseinbußen.
 
 Am wenigsten technischen Aufwand erfordert der Download der Binaries und die lokale Komprimierung von Arbeitskopien der Bilddateien (die durch die komprimierte Version erstetzt werden) Datei für Datei. Nach unseren Tests war die [Version 2.1.1](https://github.com/danielgtaylor/jpeg-archive/releases/tag/2.1.1){target=_blank} der letzte voll funktionsfähige Release (Stand: Juni 2019).
 
