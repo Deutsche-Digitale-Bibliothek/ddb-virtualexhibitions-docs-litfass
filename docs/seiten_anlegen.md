@@ -32,7 +32,7 @@ Abschließend wählen Sie  einen Seitentyp aus einem der acht zur Verfügung ste
 
 !![Abb. C.2-3 – Auswahl eines Layouts][C-2_3]
 
-Im [folgenden Abschnitt](seiten_layouts/index.html) werden die zur Verfügung stehenden Layouts ausführlich vorgestellt. Einen guten Überblick über die Gestaltungs- und Kombinationsmöglichkeiten bietet die [Musterausstellung von DDBstudio](https://pro.deutsche-digitale-bibliothek.de/){target=_blank}, in der alle einsetzbaren Funktionen exemplarisch verwendet werden.
+Im [folgenden Abschnitt](ddb-virtualexhibitions-docs-litfass/seiten_layouts.html) werden die zur Verfügung stehenden Layouts ausführlich vorgestellt. Einen guten Überblick über die Gestaltungs- und Kombinationsmöglichkeiten bietet die [Musterausstellung von DDBstudio](https://pro.deutsche-digitale-bibliothek.de/){target=_blank}, in der alle einsetzbaren Funktionen exemplarisch verwendet werden.
 
 [C-2_1]: img/C-2_1.jpg "Abb. C.2-1 – Die Seitenliste"
 [C-2_2]: img/C-2_2.jpg "Abb. C.2-2 – Einstellungen zu den Metadaten der Seite"
