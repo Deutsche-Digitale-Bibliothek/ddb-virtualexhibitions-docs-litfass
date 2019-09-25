@@ -66,13 +66,11 @@ Die Einbindung des Bookviewers erfordert auf Objektebene lediglich, dass Sie die
 
 !![Abb. B.4-4 – Mehrere Bild-Dateien einbinden][B-4_4]
 
-Ein Klick auf die grüne Schaltfläche „Weitere Datei hinzufügen“ erzeugt einen neuen Button „Datei auswählen“. Mit dem Speichern des Objekts wird die Serie der so eingebundenen Dateien hochgeladen. Wenn Sie anschließend das Objekt bearbeiten und wieder zum Reiter „Dateien“ wechseln, erscheint jede Datei in einem eigenen Balken. Die Balken können per Drag & Drop verschoben werden, falls Sie die Reihenfolge korrigieren möchten.
+Auf der Übersichtsseite zum Objekt erscheint in der rechten Spalte ein Bookviewer-Link. Diesen können Sie in Ihrer Ausstellung als relativen Textlink verwenden, um den BesucherInnen Zugang zum Bookviewer zu geben. Bitte wählen Sie die für „Ziel“ die Option „Neues Fenster“, damit die NutzerInnen beim Schließen des Bookviewerfensters wieder an der ursprünglichen Stelle in der Ausstellung landen.
 
-!![Abb. B.4-5 – Darstellung der eingebundenen Dateien als verschiebbare Balken][B-4_5]
+!![Abb. B.4-5 – Übersichtsseite Objekt mit Bookviewer-Link][B-4_5]
 
-Auch diese Änderungen werden erst wirksam, wenn Sie das Objekt speichern („Änderungen übernehmen“).
-
-Auf der Übersichtsseite zum Objekt erscheint in der rechten Spalte ein Bookviewer-Link. Diesen können Sie in Ihrer Ausstellung als relativen Textlink verwenden, um den BesucherInnen Zugang zum Bookviewer zu geben. Bitte wählen Sie die für „Ziel“ die Option „Neues Fenster“, damit die NutzerInnen beim Schließen des Bookviewerfensters wieder an der ursprünglichen Stelle in der Ausstellung landen. Wenn Sie auf den Link „anzeigen“ in der Box „Bookviewer-Link“ klicken, können Sie von der Übersichtsseite den Bookviewer zu diesem Objekt direkt aufrufen.
+Wenn Sie auf den Link „Seite anzeigen“ in der Box „Bookviewer-Link“ klicken, können Sie von der Übersichtsseite den Bookviewer zu diesem Objekt direkt aufrufen.
 
 Sie können nun noch die Darstellungsoptionen im Viewer ändern, indem Sie beim Einbinden in die Ausstellung bei dem Bookviewer-Link die Parameter „n0“ und „2up“ ändern. Die Zahl hinter „n“ schlägt initial die entsprechende Seite auf, also „n1“ die Seite 2 der Folge (die Zählung beginnt mit 0), „n5“ die Seite 6 usw. Analog dazu zeigt „1up“ Einzelseiten, „2up“ jeweils zwei Seiten usw.
 
@@ -104,6 +102,6 @@ Damit steht Ihnen das 3D-Objekt zur Verwendung in der Ausstellung zur Verfügung
 [B-4_2]: img/B-4_2.jpg "Abb. B.4-2 – Reiter „Dateien“ mit eingestelltem Objekt“"
 [B-4_3]: img/B-4_3.jpg "Abb. B.4-3 – Dialogbox „Video-Shortcode-Helfer“"
 [B-4_4]: img/B-4_4.jpg "Abb. B.4-4 – Mehrere Bild-Dateien einbinden"
-[B-4_5]: img/B-4_5.jpg "Abb. B.4-5 – Darstellung der eingebundenen Dateien als verschiebbare Balken"
+[B-4_5]: img/B-4_5.jpg "Abb. B.4-5 – Übersichtsseite Objekt mit Bookviewer-Link"
 [B-4_6]: img/B-4_6.jpg "Abb. B.4-6 – Anlegen eines 3D-Objekts"
 [B-4_7]: img/B-4_7.jpg "Abb. B.4_7 – Reiter „3D-Dateien“ mit eingestelltem 3D-Objekt"

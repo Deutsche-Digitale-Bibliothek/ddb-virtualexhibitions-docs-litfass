@@ -26,7 +26,7 @@ Wesentlich bessere Ergebnisse als mit Standardprogrammen wie Photoshop oder Gimp
 
 #### Online-Service jpeg.io
 
-Die Website [jpeg.io](https://www.jpeg.io) bietet Ihnen die Möglichkeit, unkompliziert Bilddateien unterschiedlichster Formate in gut komprimierte .jpg-Dateien zu konvertieren. Ziehen Sie dazu einfach die zu bearbeitenden Dateien in das Uploadfeld (oder klicken Sie auf dieses und markieren die Dateien im Auswahlfenster). Alternativ steht der Import von Dropbox, Google Drive oder Box zur Verfügung. Die konvertierten Dateien können Sie am Ende als Zip-Datei herunterladen.
+Die Website [jpeg.io](https://www.jpeg.io){target=_blank} bietet Ihnen die Möglichkeit, unkompliziert Bilddateien unterschiedlichster Formate in gut komprimierte .jpg-Dateien zu konvertieren. Ziehen Sie dazu einfach die zu bearbeitenden Dateien in das Uploadfeld (oder klicken Sie auf dieses und markieren die Dateien im Auswahlfenster). Alternativ steht der Import von Dropbox, Google Drive oder Box zur Verfügung. Die konvertierten Dateien können Sie am Ende als Zip-Datei herunterladen.
 
 Der Service verarbeitet Dateien bis 50 MB. Wenn Ihre Ausgangsdateien größer sind, müssten Sie diese zunächst vorbearbeiten.
 
@@ -34,7 +34,7 @@ Der Service verarbeitet Dateien bis 50 MB. Wenn Ihre Ausgangsdateien größer si
 
 #### Online-Service squoosh.app
 
-Auch der Service [squoosh.app](https://squoosh.app/) bietet die relativ unkomplizierte Online-Kompression an, allerdings muss man hier Bild für Bild vorgehen und sieht sich mit einem Upload-Limit von 16 MB pro Bild konfrontiert. Gegenüber jpeg.io bietet squoosh.app zwei Vorteile: Die Kompressionseinstellungen lassen sich nach dem Upload justieren und das Ergebnis der Kompression ist in Echtzeit zu sehen, mit einem praktischen Schieber, mit dem Sie Original und komprimierte Version an jeder Stelle direkt vergleichen können. Schon deshalb ist die Seite ein guter Einstieg, um sich anschaulich mit dem Thema Bildkompression auseinander zu setzen.
+Auch der Service [squoosh.app](https://squoosh.app/){target=_blank} bietet die relativ unkomplizierte Online-Kompression an, allerdings muss man hier Bild für Bild vorgehen und sieht sich mit einem Upload-Limit von 16 MB pro Bild konfrontiert. Gegenüber jpeg.io bietet squoosh.app zwei Vorteile: Die Kompressionseinstellungen lassen sich nach dem Upload justieren und das Ergebnis der Kompression ist in Echtzeit zu sehen, mit einem praktischen Schieber, mit dem Sie Original und komprimierte Version an jeder Stelle direkt vergleichen können. Schon deshalb ist die Seite ein guter Einstieg, um sich anschaulich mit dem Thema Bildkompression auseinander zu setzen.
 
 !![Abb. D.3-2 - Online-Service squoosh.app][D-3_2]
 
@@ -42,9 +42,9 @@ Auch der Service [squoosh.app](https://squoosh.app/) bietet die relativ unkompli
 
 Wenn Sie versiert im Umgang mit Tools und Skripten sind, die über die Kommandozeile bedient werden, sollten Sie die Verwendung des Tools [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive) in Erwägung ziehen. Es arbeitet mit dem Skript jpeg-recompress, das bei der Bildkompression sonst kaum zu erreichende Ergebnisse erzielt, mit substantiell reduzierten Dateigrößen bei mit bloßem Auge kaum wahrnehmbaren Qualitätseinbußen.
 
-Am wenigsten technischen Aufwand erfordert der Download der Binaries und die lokale Komprimierung von Arbeitskopien der Bilddateien (die durch die komprimierte Version erstetzt werden) Datei für Datei. Nach unseren Tests war die [Version 2.1.1](https://github.com/danielgtaylor/jpeg-archive/releases/tag/2.1.1) der letzte voll funktionsfähige Release (Stand: Juni 2019).
+Am wenigsten technischen Aufwand erfordert der Download der Binaries und die lokale Komprimierung von Arbeitskopien der Bilddateien (die durch die komprimierte Version erstetzt werden) Datei für Datei. Nach unseren Tests war die [Version 2.1.1](https://github.com/danielgtaylor/jpeg-archive/releases/tag/2.1.1){target=_blank} der letzte voll funktionsfähige Release (Stand: Juni 2019).
 
-Zu den zahlreichen Möglichkeiten, den Kompressionsvorgang zu konfigurieren, mit mehreren Dateien und Ordnern zu arbeiten etc. siehe die ausführliche Dokumentation bei [GitHub](https://github.com/danielgtaylor/jpeg-archive). 
+Zu den zahlreichen Möglichkeiten, den Kompressionsvorgang zu konfigurieren, mit mehreren Dateien und Ordnern zu arbeiten etc. siehe die ausführliche Dokumentation bei [GitHub](https://github.com/danielgtaylor/jpeg-archive){target=_blank}. 
 
 [D-3_1]: img/D-3_1.jpg "Abb. D.3-1 - Online-Service jpeg.io"
 [D-3_2]: img/D-3_2.jpg "Abb. D.3-2 - Online-Service squoosh.app"

@@ -16,7 +16,7 @@ Geben Sie dem Slider-Element einen Titel, damit Sie ihn in Ihrer Seitenliste ide
 
 In der Liste Ihrer Ausstellungsseiten erscheint nun ein Balken mit dem Zusatz „Anfang eines Sliders ⬇“ und einer mit dem Zusatz „Ende eines Sliders ⬆“.
 
-!![Abb. C.4-3 – Die Seitenliste mit einem leeren Slider-Element][C-4_3]
+!![Abb. C.4-3 – Die Seitenliste mit einem Slider-Element][C-4_3]
 
 Seiten, die zwischen diesen Rahmen-Elementen platziert werden, erscheinen im Frontend im Slider-Format.
 
@@ -24,7 +24,7 @@ Seiten, die zwischen diesen Rahmen-Elementen platziert werden, erscheinen im Fro
 
 Um den leeren Slider mit Inhalten zu befüllen, legen Sie einfach wie gewohnt Seiten an und verschieben sie anschließend in der Seitenliste per Drag & Drop zwischen die Anfangs- und Endbalken des betreffenden Sliders. Sie können jede beliebige bereits angelegte Seite in einen Slider aufnehmen (oder wieder entfernen). Die Reihenfolge in der Seitenliste bestimmt die Abfolge der Seiten im Slider.
 
-!![Abb. C.4-4 – Die Seitenliste mit einem bestückten Slider-Element][C-4_4]
+!![Abb. C.4-4 – Die Seitenliste, drag & drop Slider-Element][C-4_4]
 
 Wenn Sie Ihren Slider zusammengestellt haben, speichern Sie das Ergebnis über die Schaltfläche „Änderungen übernehmen“.
 
@@ -38,6 +38,6 @@ Die im Slider platzierten Seiten werden dann wieder in die normale Seitenabfolge
 
 [C-4_1]: img/C-4_1.jpg "Abb. C.4-1 – Der Slider in im Frontend"
 [C-4_2]: img/C-4_2.jpg "Abb. C.4-2 – Slider durch Zuweisung des Seiten-Layouts anlegen"
-[C-4_3]: img/C-4_3.jpg "Abb. C.4-3 – Die Seitenliste mit einem leeren Slider-Element"
-[C-4_4]: img/C-4_4.jpg "Abb. C.4-4 – Die Seitenliste mit einem bestückten Slider-Element"
+[C-4_3]: img/C-4_3.jpg "Abb. C.4-3 – Die Seitenliste mit einem Slider-Element"
+[C-4_4]: img/C-4_4.jpg "Abb. C.4-4 – Die Seitenliste, drag & drop Slider-Element"
 [C-4_5]: img/C-4_5.jpg "Abb. C.4-5 – Löschen eines Sliders"

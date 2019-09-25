@@ -92,8 +92,6 @@ Nach Übernahme der Änderungen sollten Sie im Frontend schauen, ob das Zitat ko
 
 Ebenfalls in der Auswahlliste „Formate“ stehen die Formatierungsmöglichkeiten „große Schrift“ und „kleine Schrift“ zur Verfügung.
 
-!![Abb. D.2-10 – Sonderformate große und kleine Schrift im Frontend][D-2_10]
-
 ##### Der HTML-Modus
 
 Die Schaltfläche „<>“ gibt Ihnen Zugang zu dem Quellcode im HTML-Format, den der Texteditor erzeugt. Wenn Sie zumindest ein wenig mit der HTML-Syntax vertraut sind, können Sie auf diese Weise im Quellcode nachschauen, falls Schwierigkeiten im normalen Editor-Modus auftauchen. 

@@ -12,8 +12,6 @@ Außerdem erscheinen die Metadaten auf der Detailseite zum Objekt, sofern es sic
 
     Wenn die Objekte Ihrer Ausstellung bereits in der DDB verfügbar sind, können Sie sich bei der Eingabe der Metadaten auf die wenigen Felder beschränken, die in der Info-Box ausgegeben werden. Denn das Objekt hat in diesem Fall keine eigene Detailseite im Ausstellungskontext.
 
-!![Abb. D.1-2 – Detailseite zu einem Objekt mit Metadatenausgabe][D-1_2]
-
 Nicht ausgefüllte Metadatenfelder werden bei der Ausgabe ignoriert, es entstehen also keine Lücken. Die für die Ausgabe in der Info-Box vorgesehenen Felder sollten ausgefüllt werden. Pflichtfelder sind mit einem * gekennzeichnet; wenn Sie diese Felder nicht ausfüllen, erhalten Sie beim Speichern des Objekts eine Fehlermeldung.
 
 ##### Titel*
@@ -210,4 +208,3 @@ Dieses Feld dient zur Verknüpfung mit einem Video, siehe Abschnitt [$QV objekte
 **Ausgabe**: als Video in einem Player (Ausstellungseite und Objekt-Detailseite)
 
 [D-1_1]: img/D-1_1.jpg "Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt"
-[D-1_2]: img/C-1_2.jpg "Abb. D.1-2 – Detailseite zu einem Objekt mit Metadatenausgabe"
