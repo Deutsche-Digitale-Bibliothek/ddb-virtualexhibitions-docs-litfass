@@ -48,7 +48,7 @@ Nummerierte (sortierte) Listen unterscheiden sich von den unsortierten nur dadur
 
 Beim Klick auf das Kettensymbol öffnet sich eine Eingabemaske, in der Sie die zur Verlinkung notwendigen Einstellungen vornehmen können. Im Feld „URL“ geben Sie zunächst das Ziel der Verlinkung ein.
 
-Bei Links auf andere Seiten Ihrer Ausstellung setzen Sie **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zu „.de“; übrig bleibt, was rechts von „.de“ steht. Ein relativer Link sieht dann beispielsweise so aus: „[$Beispiellink]“.
+Bei Links auf andere Seiten Ihrer Ausstellung setzen Sie **relative** Links. Dazu gehen Sie auf die betreffende Seite, kopieren die URL aus der Adresszeile Ihres Browsers und entfernen alles bis zu „.de“; übrig bleibt, was rechts von „.de“ steht. Ein relativer Link sieht dann beispielsweise so aus: „/handbuchlitfass/exhibits/show/handbuch-zu-ddbstudio-litfass#s14“.
 
 Bei Links auf Seiten außerhalb Ihrer Ausstellung setzen Sie **absolute** Links, die Sie direkt aus der Adresszeile Ihres Browsers übernehmen können.
 
@@ -76,7 +76,7 @@ Um eine Überschriftenformatierung zu entfernen, weisen Sie wieder das Format �
 
 ##### Zitatblock
 
-Wenn Sie in Ihrer Ausstellung hervorgehobene Zitate einbinden möchten, steht Ihnen dazu ein eigenes Seiten-Layout zur Verfügung: „Zitatblock“ [$QV]. Sie können aber auch in einer Seite Zitatblöcke einbinden. Um einen Absatz als einen solchen Zitatblock zu gestalten, fügen Sie zunächst das Zitat mit einer kurzen Quellenangabe ein. Markieren Sie das gesamte Zitat und die Quellenangabe und wählen unter „Formate“ „blockquote“. Der betreffende Abschnitt wird im Editor eingerückt dargestellt. Nun markieren Sie die Quellenangabe und wählen in der Formate-Liste „cite“.
+Wenn Sie in Ihrer Ausstellung hervorgehobene Zitate einbinden möchten, steht Ihnen dazu ein eigenes Seiten-Layout zur Verfügung: „Zitatblock“ [siehe Abschnitt C.3.3](seiten_layouts.html#layout-7-zitatblock). Sie können aber auch in einer Seite Zitatblöcke einbinden. Um einen Absatz als einen solchen Zitatblock zu gestalten, fügen Sie zunächst das Zitat mit einer kurzen Quellenangabe ein. Markieren Sie das gesamte Zitat und die Quellenangabe und wählen unter „Formate“ „blockquote“. Der betreffende Abschnitt wird im Editor eingerückt dargestellt. Nun markieren Sie die Quellenangabe und wählen in der Formate-Liste „cite“.
 
 !!!note "Zitate-Format nur für einen Absatz geeignet"
 
