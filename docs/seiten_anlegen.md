@@ -6,11 +6,13 @@ Um eine solche Ausstellungsseite anzulegen, klicken Sie auf die Schaltfläche �
 
 !![Abb. C.2-1 – Die Seitenliste][C-2_1]
 
+Zum Löschen einer Seite klicken Sie auf das „X“ hinter dem Seitentitel. Der Balken wird dann markiert und beim Übernehmen der Änderungen zur Ausstellung gelöscht. Das an die Stelle des „X“ getretene Pfeilsymbol erlaubt Ihnen, die Seite wieder von der Löschliste zu nehmen.
+
 ### C.2.1 Metadaten der Seite
 
 Die Metadaten der Seite legen den Titel fest, durch den die Seite im Backend auffindbar ist und der (bei den meisten Seitentypen) auch im Frontend als Überschrift ausgegeben wird. 
 
-Sie haben die Möglichkeit, bei der Option „Titel im Seiteninhalt anzeigen“ „nein“ zu wählen. Dann können sie eine eigene Überschrift im Format Überschrift 1 setzen. [$QV] Diese Möglichkeit bietet sich unter anderem an, wenn Sie eine lange Überschrift verwenden möchten. Im Ausklapp-Menü erscheint dann der Seitentitel (kurz), auf der Seite der ausführliche Titel.
+Sie haben die Möglichkeit, bei der Option „Titel im Seiteninhalt anzeigen“ „nein“ zu wählen. Dann können sie eine eigene Überschrift im Format Überschrift 1 setzen. ([siehe Abschnitt D.2](anhang_editor.html#uberschriften)) Diese Möglichkeit bietet sich unter anderem an, wenn Sie eine lange Überschrift verwenden möchten. Im Ausklapp-Menü erscheint dann der Seitentitel (kurz), auf der Seite der ausführliche Titel.
 
 Zudem werden hier einige Einstellungen vorgenommen, die Typ und Erscheinungsbild der betreffenden Seite steuern: 
 

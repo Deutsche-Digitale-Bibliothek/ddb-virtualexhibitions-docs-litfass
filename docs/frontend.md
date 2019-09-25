@@ -1,6 +1,6 @@
 ## A.1 Die fertige Ausstellung
 
-Bevor wir Ihnen die Bedienung der Redaktionsoberfläche erläutern, mit der Sie Ihre eigene Ausstellung anlegen, möchten wir DDBstudio zunächst aus der Sicht der NutzerInnen vorstellen. Dazu haben wir eine Musterausstellung erstellt, in der die zur Verfügung stehenden Formate und Funktionen exemplarisch eingesetzt wurden. Sie ist unter [LINK ZUR MUSTERAUSSTELLUNG] (http://link-zur-musterausstellung.de) aufrufbar. Bei der Arbeit an Ihrer Ausstellung können Sie dieses Muster immer wieder konsultieren, um die Möglichkeiten von DDBstudio zu erkunden.
+Bevor wir Ihnen die Bedienung der Redaktionsoberfläche erläutern, mit der Sie Ihre eigene Ausstellung anlegen, möchten wir DDBstudio zunächst aus der Sicht der NutzerInnen vorstellen. Dazu haben wir eine Musterausstellung erstellt, in der die zur Verfügung stehenden Formate und Funktionen exemplarisch eingesetzt wurden. Sie ist unter [$LINK ZUR MUSTERAUSSTELLUNG] (http://link-zur-musterausstellung.de) aufrufbar. Bei der Arbeit an Ihrer Ausstellung können Sie dieses Muster immer wieder konsultieren, um die Möglichkeiten von DDBstudio zu erkunden.
 
 #### Startseite
 
@@ -14,7 +14,7 @@ Durch Scrollen oder einen Klick auf das Pfeilsymbol gelangt man auf die weiteren
 
 !![Abb. A.1-2 – eine Seite der Ausstellung (hier: Text und Objekt)][A-1_2]
 
-Das hier gezeigte Layout-Schema „Text und Objekt“ ist sicherlich in vielen Kontexten einsetzbar, DDBstudio bietet Ihnen aber eine ganze Palette weiterer Möglichkeiten, Medien (Bilder, Videos, Audio-Aufnahmen, 3D-Objekte) mit und ohne begleitende Texte zu präsentieren und die Folge der Objekte durch Zwischentexte zu gliedern. Sie werden in Abschnitt [$QV] ausführlich vorgestellt.
+Das hier gezeigte Layout-Schema „Text und Objekt“ ist sicherlich in vielen Kontexten einsetzbar, DDBstudio bietet Ihnen aber eine ganze Palette weiterer Möglichkeiten, Medien (Bilder, Videos, Audio-Aufnahmen, 3D-Objekte) mit und ohne begleitende Texte zu präsentieren und die Folge der Objekte durch Zwischentexte zu gliedern. Sie werden in Abschnitt [C.3 Seitenlayouts](seiten_layouts.html) ausführlich vorgestellt.
 
 !![Abb. A.1-3 – ein Zwischentext mit seitlicher Überschrift][A-1_3]
 

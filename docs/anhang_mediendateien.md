@@ -10,7 +10,7 @@ Es gilt also, die beiden Anforderungen zu einem optimalen Ausgleich zu bringen. 
 
 ### D.3.1 Sinnvolle Bildgrößen
 
-Wenn Sie ein Bild nur als Seitenhintergrund verwenden (siehe Abschnitt [Seitentemplates][$QV]) verwendet DDBStudio ein beim Dateiupload erzeugte Version, die in ihrer Größe dieser Funktion angepasst ist. Auch die Abbildungen auf den Seiten mit Text-Bild-Kombination sind in der Größe entsprechend optimiert.
+Wenn Sie ein Bild nur als Seitenhintergrund verwenden ([siehe Abschnitt C.3.2](seiten_layouts.html#layout-2-nur-objekt)) verwendet DDBstudio ein beim Dateiupload erzeugte Version, die in ihrer Größe dieser Funktion angepasst ist. Auch die Abbildungen auf den Seiten mit Text-Bild-Kombination sind in der Größe entsprechend optimiert.
 
 Das Bild in seiner vollen Auflösung ist erst bei Aufruf des Zoom-Tools über das Lupensymbol zu sehen. Hier liegt eine besondere Stärke des digitalen Mediums: Man kann die Objekte in einer Detailliertheit sehen, die oft nicht einmal bei der Präsentation des realen Objekts in einer Ausstellung möglich ist. Welcher Grad der Nahsichtigkeit inhaltlich noch Sinn ergibt, können Sie aus Ihrer kuratorischen Sicht sicherlich am besten entscheiden. Die Größe des eingebundenen Bildes auf dieses inhaltlich sinnvolle Maß zu beschränken, kann zu erheblich schnelleren Ladezeiten führen.
 

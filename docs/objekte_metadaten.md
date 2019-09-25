@@ -1,6 +1,6 @@
 ## B.3 Das Objekt mit Metadaten versehen
 
-Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema (s. Anhang [$QV]), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Aus der Objektliste kommen Sie über den Textlink „Bearbeiten“ direkt zur Eingabemaske. Sie können auch den Titel anklicken, dann kommen Sie auf die Übersichtsseite des Objekts und von dort  über „Bearbeiten“ zur Eingabemaske (s.u. Abb. B.3-3).
+Die virtuellen Ausstellungen der Deutschen Digitalen Bibliothek arbeiten mit einem speziell zu diesem Zweck zusammengestellten Metadatenschema ([ siehe Abschnitt D.1](anhang_metadaten.html#d1-metadaten)), das die notwendigen Angaben für unterschiedliche Objektkategorien wie Texte, Bilder, Filme, kunstgewerbliche Gegenstände etc. zusammenfasst. Aus der Objektliste kommen Sie über den Textlink „Bearbeiten“ direkt zur Eingabemaske. Sie können auch den Titel anklicken, dann kommen Sie auf die Übersichtsseite des Objekts und von dort  über „Bearbeiten“ zur Eingabemaske (s.u. Abb. B.3-3).
 
 !![Abb. B.3-1 – Aufruf der Eingabemaske für Metadaten aus Objektlisten][B-3_1]
 
@@ -14,7 +14,7 @@ Die Werte mancher Felder werden bei der Ausgabe im Frontend direkt ausgegeben, a
 
 Wenn Sie versuchen, das Objekt über die Schaltfläche „Objekt hinzufügen“ abzuspeichern, ohne dass alle Pflichtfelder ausgefüllt sind, erscheint eine Warnmeldung und das Speichern wird verhindert.
 
-In den grauen Boxen über den Feldern finden Sie bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele zu den Informationen, mit denen das Feld zu befüllen ist. Ausführliche Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang dieses Handbuchs [$QV].
+In den grauen Boxen über den Feldern finden Sie bei den meisten Feldern eine kurze Erläuterung bzw. Beispiele zu den Informationen, mit denen das Feld zu befüllen ist. Ausführliche Hinweise zu den einzelnen Feldern der Eingabemaske finden Sie außerdem im Anhang dieses Handbuchs ([ Abschnitt D.1 Metadaten der Objekte](anhang_metadaten.html#d1-metadaten)).
 
 Wenn Sie mit der Eingabe der Metadaten zu einem Objekt fertig sind, sichern Sie Ihre Eingabe mit einem Klick auf die Schaltfläche „Änderungen übernehmen“. Omeka wechselt nun zur Übersichtsseite mit den Metadaten des Objekts.
 

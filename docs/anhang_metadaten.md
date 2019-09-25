@@ -203,7 +203,7 @@ Fördermittelgeber, Förderprogramm
 
 ##### Videoquelle
 
-Dieses Feld dient zur Verknüpfung mit einem Video, siehe Abschnitt [$QV objekte_medien.md] 
+Dieses Feld dient zur Verknüpfung mit einem Video, siehe Abschnitt [B.4.3](objekte_medien.html#b43-verknupfen-mit-einer-video-datei).
 
 **Ausgabe**: als Video in einem Player (Ausstellungseite und Objekt-Detailseite)
 
