@@ -2,7 +2,7 @@
 
 Wenn Sie Interesse haben, eine virtuelle Ausstellung mit DDBstudio zu realisieren, kontaktieren Sie bitte das Team der Deutschen Digitalen Bibliothek unter [ddbstudio@deutsche-digitale-bibliothek.de](mailto:ddbstudio@deutsche-digitale-bibliothek.de).
 
-Nachdem Sie mit den Mitarbeiter*innen der DDB alle inhaltlichen, rechtlichen und organisatorischen Fragen geklärt haben, richten diese Ihnen eine eigene Omeka-Instanz ein, in der Sie dann Ihre Ausstellung selbständig kuratieren können.
+Nachdem Sie mit den MitarbeiterInnen der DDB alle inhaltlichen, rechtlichen und organisatorischen Fragen geklärt haben, richten diese Ihnen eine eigene Omeka-Instanz ein, in der Sie dann Ihre Ausstellung selbständig kuratieren können.
 
 Für diesen Schritt sind einige Festlegungen zu treffen, die zum Teil nachträglich nicht geändert werden können (mit fix gekennzeichnet):
 
@@ -11,17 +11,17 @@ Für diesen Schritt sind einige Festlegungen zu treffen, die zum Teil nachträgl
 * Pfadangabe der Ausstellung (fix)
 * Farbpalette (fix)
 
-Die **Pfadangabe (Slug)** der Ausstellung legt den Teil der URL auf der Plattform der Deutschen Digitalen Bibliothek fest, der Ihre Ausstellung kennzeichnet. Damit Ihre Inhalte von Suchmaschinen gut gefunden werden können und Sie einen nutzerfreundlichen Link zum Teilen und Verschicken haben, sollten Sie einen möglichst knappen aber aussagekräftigen slug wählen, z.B. „figurenuhren“. Erlaubt sind nur Kleinbuchstaben und Ziffern, Wörter werden durch einen Bindestrich getrennt.
+Die **Pfadangabe (Slug)** der Ausstellung legt den Teil der URL auf der Plattform der Deutschen Digitalen Bibliothek fest, der Ihre Ausstellung kennzeichnet. Damit Ihre Inhalte von Suchmaschinen gut gefunden werden können und Sie einen nutzerfreundlichen Link zum Teilen und Verschicken haben, sollten Sie einen möglichst knappen, aber aussagekräftigen slug wählen, z.B. „figurenuhren“. Erlaubt sind nur Kleinbuchstaben und Ziffern, Wörter werden durch einen Bindestrich getrennt.
 
 ### Farbpaletten
 
-Die Farbpalette legt fest, welche Kombinationen aus Hintergrund- und Textfarben Ihnen in der Ausstellung zur Verfügung stehen werden. Sie müssen selbstverständlich nicht alle Optionen nutzen, die eine Palette bietet. Oft wird es sinnvoll sein, die Ausstellung mit zwei oder drei der in einer Palette angebotenene Farbkombinationen zu gestalten. Die folgenden Hinweise zum möglichen Einsatz der jeweiligen Palette sind lediglich als Anregungen zu verstehen.
+Die Farbpalette legt fest, welche Kombinationen aus Hintergrund- und Textfarben Ihnen in der Ausstellung zur Verfügung stehen werden. Sie müssen selbstverständlich nicht alle Optionen nutzen, die eine Palette bietet. Oft wird es sinnvoll sein, die Ausstellung mit zwei oder drei der in einer Palette angebotenen Farbkombinationen zu gestalten. Die folgenden Hinweise zum möglichen Einsatz der jeweiligen Palette sind lediglich als Anregungen zu verstehen.
 
 Zur Auswahl stehen sieben Paletten aus aufeinander abgestimmten Farbwerten:
 
 #### Palette a
 
-Sehr buntes, poppiges Farbschema. Möglicher Einsatz: Popkultur, Kinder, Sommer, Zirkus, große Formen …
+Sehr buntes, poppiges Farbschema. Möglicher Einsatz: Popkultur, Kinder, Sommer, Zirkus, große Formen, …
 
 ![Palette a][PL-1]
 
@@ -57,7 +57,7 @@ Natürlich, bunte Farbpalette. Möglicher Einsatz: Sach- und Wissenschaftsthemen
 
 #### Palette g
 
-Kühlere Farbpalette in Pastell. Sachlich, unaufgeregt. Möglicher Einsatz: Winter, Eis, Wasser, Sach- und Wissenschaftsthemen mit dezenter Hintergrundgestaltung, Business, Technik …
+Kühlere Farbpalette in Pastell. Sachlich, unaufgeregt. Möglicher Einsatz: Winter, Eis, Wasser, Sach- und Wissenschaftsthemen mit dezenter Hintergrundgestaltung, Business, Technik, …
 
 ![Palette g][PL-7]
 

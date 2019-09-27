@@ -20,9 +20,9 @@ Um das Objekt mit einer Mediendatei – dem Digitalisat des Objekts, das Sie in 
     
     PDF-Dateien können nicht zur Repräsentation des Objekts verwendet werden.
 
-Auf den Ausstellungsseiten steht für die eingebundenen Bilder später ein Zoomtool zur Verfügung. Die NutzerInnen können die Bilder vergrößern, bis die native Auflösung des eingestellten Bildes erreicht ist, also bis ein Pixel des Bildes einem Pixel in der Frontend-Ausgabe entspricht. Wenn Sie Ihren BesucherInnen diese Möglichkeit bieten wollen, sollten Sie ausreichend große, d.h. hochaufgelöste Bilder verwenden. Für die Ausgabe im Kontext der Seite, also im ungezoomten Zustand, verwendet DDBstudio ein Vorschaubild in reduzierter Größe. Das Einstellen großer, hochauflösender Bilder verlangsamt also den Aufruf der eigentlichen Ausstellungsseiten nicht, soweit es sich um Text-Bild-Kombinationen handelt. Siehe auch den Abschnitt [D.3.1 Sinnvolle Bildgrößen](anhang_mediendateien.html#d31-sinnvolle-bildgroen) im Anhang.
+Auf den Ausstellungsseiten steht für die eingebundenen Bilder später ein Zoom-Tool zur Verfügung. Die NutzerInnen können die Bilder vergrößern, bis die native Auflösung des eingestellten Bildes erreicht ist, also bis ein Pixel des Bildes einem Pixel in der Frontend-Ausgabe entspricht. Wenn Sie Ihren BesucherInnen diese Möglichkeit bieten wollen, sollten Sie ausreichend große, d.h. hochaufgelöste Bilder verwenden. Für die Ausgabe im Kontext der Seite, also im ungezoomten Zustand, verwendet DDBstudio ein Vorschaubild in reduzierter Größe. Das Einstellen großer, hochauflösender Bilder verlangsamt also den Aufruf der eigentlichen Ausstellungsseiten nicht, soweit es sich um Text-Bild-Kombinationen handelt. Siehe auch den Abschnitt [D.3.1 Sinnvolle Bildgrößen](anhang_mediendateien.html#d31-sinnvolle-bildgroen) im Anhang.
 
-Zoombarkeit ist aber auch kein Selbstzweck. Wenn Sie etwa als Archivdokument ein Typoskript präsentieren, trägt es wahrscheinlich zum Ausstellungserlebnis wenig bei, wenn man es so weit heranzoomen kann, dass die Holzfasern im Papier erkennbar werden. Verstehen Sie die Zoomfunktion als Gestaltungselement, das Sie im Sinne Ihrer kuratorischen Konzeption einsetzen können (aber nicht müssen). Wurden keine Einstellungen vorgenommen, wird ein Zoomausschnitt mit hoher Zoomstufe sowie vertikler und horizontaler Zentrierung erzeugt.     
+Zoombarkeit ist aber auch kein Selbstzweck. Wenn Sie etwa als Archivdokument ein Typoskript präsentieren, trägt es wahrscheinlich zum Ausstellungserlebnis wenig bei, wenn man es so weit heranzoomen kann, dass die Holzfasern im Papier erkennbar werden. Verstehen Sie die Zoomfunktion als Gestaltungselement, das Sie im Sinne Ihrer kuratorischen Konzeption einsetzen können (aber nicht müssen). Wurden keine Einstellungen vorgenommen, wird ein Zoomausschnitt mit hoher Zoomstufe sowie vertikaler und horizontaler Zentrierung erzeugt.     
 
 !!! note "Transparente Hintergründe und Animationen"
 
@@ -62,7 +62,7 @@ Auf den Seiten Ihrer Ausstellung wird immer nur ein Digitalisat ausgegeben. Wenn
 
 Bei bestimmten Objekten, besonders mehrseitigen Publikationen, Heften etc., können Sie eine Präsentation in einem Bookviewer verwenden, der außerhalb der Ausstellung aufgerufen wird. Er dient deshalb eher der vertiefenden Beschäftigung mit dem Material und ist nicht mehr integraler Bestandteil der Ausstellung.
 
-Die Einbindung des Bookviewers erfordert auf Objektebene lediglich, dass Sie die Bestandteile (z. B. die Seiten eines Buchs) in der richtigen Reihenfolge nacheinander als einzelne Bild-Dateien einbinden.
+Die Einbindung des Bookviewers erfordert auf Objektebene lediglich, dass Sie die Bestandteile (z.B. die Seiten eines Buchs) in der richtigen Reihenfolge nacheinander als einzelne Bild-Dateien einbinden.
 
 !![Abb. B.4-4 – Mehrere Bild-Dateien einbinden][B-4_4]
 
@@ -92,7 +92,7 @@ Es werden drei Komponenten benötigt:
 
 Wenn Sie den Reiter „3D-Dateien“ für dieses Objekt erneut aufrufen, sehen Sie die beiden 3D-Dateien und das Vorschaubild in der Box „Aktuelle 3D-Dateien“ aufgeführt. Wenn Sie andere Dateien einbinden möchten, entfernen Sie bitte die vorhandenen zunächst, indem Sie ein Häkchen bei „Aktuelle 3D-Dateien löschen“ setzen und die Änderungen übernehmen.
 
-!![Abb. B.4_7 – Reiter „3D-Dateien“ mit eingestelltem 3D-Objekt][B-4_7]
+!![Abb. B.4-7 – Reiter „3D-Dateien“ mit eingestelltem 3D-Objekt][B-4_7]
 
 Damit steht Ihnen das 3D-Objekt zur Verwendung in der Ausstellung zur Verfügung. Um zu überprüfen, ob die 3D-Darstellung wie gewünscht funktioniert, rufen Sie das Objekt am besten über die Schaltfläche „Seite anzeigen“ auf der DDB-Objekt-Detailseite auf.
 

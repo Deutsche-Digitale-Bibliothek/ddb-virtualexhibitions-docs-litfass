@@ -36,7 +36,7 @@ Objekt kann bei diesem Seiten-Layout ein Bild sein, aber auch ein Video, ein Aud
 
 Das Layout sorgt bei der Ausgabe im Frontend dafür, dass die Medienobjekte – angepasst an die aktuellen Proportionen des Browserfensters – in optimaler Größe dargestellt werden. Bei etwas längeren Texten kann und wird es vorkommen, dass der Text mehr Raum einnimmt, als neben dem Medium zur Verfügung steht. Er läuft dann unten aus dem Bildschirm und lässt sich separat scrollen. Wenn Sie mit kürzeren Texten auskommen, ist die Bedienung für die BesucherInnen Ihrer virtuellen Ausstellung leichter, und kürzere Texte haben bei einem Onlinemedium größere Chancen, tatsächlich gelesen zu werden.
 
-!![Abb. C.3-4 – Layout 1:Text und Objekt][C-3_4]
+!![Abb. C.3-4 – Layout 1: Text und Objekt][C-3_4]
 
 #### Layout 2: Nur Objekt
 

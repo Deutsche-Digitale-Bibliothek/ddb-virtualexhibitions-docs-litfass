@@ -28,7 +28,7 @@ Ein Hintergrundbild stellen Sie ein, indem Sie über die Schaltfläche „Datei 
 
     Die Hintergrundbilder werden seitenfüllend angezeigt. Wie groß der verwendete Bildschirm des Nutzers oder der Nutzerin ist, können wir nicht wissen. Das Bild sollte aber zumindest bei einem gängigen Desktop-Bildschirm von 1.920 x 1.080 px (Full HD) die volle Bildqualität bieten, also mindestens die genannten Dimensionen haben.
 
-    Für die seitenfüllende Anzeige des Hintergrundbildes wird der Bildausschnitt an die jeweilige Bildschirmporportion angepasst. Die Position des Hintergrundbildes lässt sich über ein Auswahlmenü steuern. Ob Ihr Hintergrundbild unter diesen Bedingungen gestalterisch und inhaltlich ‚funktioniert‘, probieren Sie am besten, indem Sie nach dem Einstellen im Frontend das Fenster Ihres Browsers in unterschiedliche Formate bringen.
+    Für die seitenfüllende Anzeige des Hintergrundbildes wird der Bildausschnitt an die jeweilige Bildschirmproportion angepasst. Die Position des Hintergrundbildes lässt sich über ein Auswahlmenü steuern. Ob Ihr Hintergrundbild unter diesen Bedingungen gestalterisch und inhaltlich ‚funktioniert‘, probieren Sie am besten, indem Sie nach dem Einstellen im Frontend das Fenster Ihres Browsers in unterschiedliche Formate bringen.
 
     Sie können übrigens auch freigestellte Bilder mit transparenten Hintergründen verwenden (.png mit Alphatransparenz). Dann erscheint z.B. ein freigestelltes Objekt vor farbigem Grund.
 

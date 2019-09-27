@@ -2,15 +2,15 @@
 
 DDBStudio bietet Ihnen die Möglichkeit, die ‚Exponate‘ auf attraktive Weise online zu präsentieren. Die Qualität der Präsentation hängt wesentlich auch von der (technischen) Qualität der Digitalisate ab, die Sie in Ihre Ausstellung einbinden.
 
-Wie bei jedem Online-Medium, das unter den unterschiedlichsten Bedingungen genutzt wird – mit einem Breitbandanschluss, über WLAN, von einem Mobilgerät aus ... –, ist allerdings auch der Umstand, wie schnell die Seiten laden, ein wesentlicher Faktor für eine gelungenes Erlebnis der Nutzer*innen Ihrer Ausstellung.
+Wie bei jedem Online-Medium, das unter den unterschiedlichsten Bedingungen genutzt wird – mit einem Breitbandanschluss, über WLAN, von einem Mobilgerät aus ... –, ist allerdings auch der Umstand, wie schnell die Seiten laden, ein wesentlicher Faktor für eine gelungenes Erlebnis der NutzerInnen Ihrer Ausstellung.
 
-Die beiden Anforderungen stehen notgedrungen in einer gewissen Konkurrenz zueinander: Hochauflösende, großformatige Bilder garantieren brillante, unverfälschte Darstellungen und lassen sich bis in die kleinsten Details heranzoomen. Aber sie führen eben auch zu längeren Ladezeiten und strapazieren u.U. die Geduld der Nutzer*innen. 
+Die beiden Anforderungen stehen notgedrungen in einer gewissen Konkurrenz zueinander: Hochauflösende, großformatige Bilder garantieren brillante, unverfälschte Darstellungen und lassen sich bis in die kleinsten Details heranzoomen. Aber sie führen eben auch zu längeren Ladezeiten und strapazieren u.U. die Geduld der NutzerInnen. 
 
 Es gilt also, die beiden Anforderungen zu einem optimalen Ausgleich zu bringen. Im Folgenden haben wir einige Hinweise zusammengestellt, die Ihnen dabei helfen können.
 
 ### D.3.1 Sinnvolle Bildgrößen
 
-Wenn Sie ein Bild nur als Seitenhintergrund verwenden ([siehe Abschnitt C.3.2](seiten_layouts.html#layout-2-nur-objekt)) verwendet DDBstudio ein beim Dateiupload erzeugte Version, die in ihrer Größe dieser Funktion angepasst ist. Auch die Abbildungen auf den Seiten mit Text-Bild-Kombination sind in der Größe entsprechend optimiert.
+Wenn Sie ein Bild nur als Seitenhintergrund verwenden ([siehe Abschnitt C.3.2](seiten_layouts.html#layout-2-nur-objekt)) nutzt DDBstudio eine beim Dateiupload erzeugte Version, die in ihrer Größe dieser Funktion angepasst ist. Auch die Abbildungen auf den Seiten mit Text-Bild-Kombination sind in der Größe entsprechend optimiert.
 
 Das Bild in seiner vollen Auflösung ist erst bei Aufruf des Zoom-Tools über das Lupensymbol zu sehen. Hier liegt eine besondere Stärke des digitalen Mediums: Man kann die Objekte in einer Detailliertheit sehen, die oft nicht einmal bei der Präsentation des realen Objekts in einer Ausstellung möglich ist. Welcher Grad der Nahsichtigkeit inhaltlich noch Sinn ergibt, können Sie aus Ihrer kuratorischen Sicht sicherlich am besten entscheiden. Die Größe des eingebundenen Bildes auf dieses inhaltlich sinnvolle Maß zu beschränken, kann zu erheblich schnelleren Ladezeiten führen.
 
@@ -34,7 +34,7 @@ Der Service verarbeitet Dateien bis 50 MB. Wenn Ihre Ausgangsdateien größer si
 
 #### Online-Service squoosh.app
 
-Auch der Service [squoosh.app](https://squoosh.app/){target=_blank} bietet die relativ unkomplizierte Online-Kompression an, allerdings muss man hier Bild für Bild vorgehen und sieht sich mit einem Upload-Limit von 16 MB pro Bild konfrontiert. Gegenüber jpeg.io bietet squoosh.app zwei Vorteile: Die Kompressionseinstellungen lassen sich nach dem Upload justieren und das Ergebnis der Kompression ist in Echtzeit zu sehen, mit einem praktischen Schieber, mit dem Sie Original und komprimierte Version an jeder Stelle direkt vergleichen können. Schon deshalb ist die Seite ein guter Einstieg, um sich anschaulich mit dem Thema Bildkompression auseinander zu setzen.
+Auch der Service [squoosh.app](https://squoosh.app/){target=_blank} bietet die relativ unkomplizierte Online-Kompression an, allerdings muss man hier Bild für Bild vorgehen und sieht sich mit einem Upload-Limit von 16 MB pro Bild konfrontiert. Gegenüber jpeg.io bietet squoosh.app zwei Vorteile: Die Kompressionseinstellungen lassen sich nach dem Upload justieren und das Ergebnis der Kompression ist in Echtzeit zu sehen, mit einem praktischen Schieber, mit dem Sie Original und komprimierte Version an jeder Stelle direkt vergleichen können. Schon deshalb ist die Seite ein guter Einstieg, um sich anschaulich mit dem Thema Bildkompression auseinanderzusetzen.
 
 !![Abb. D.3-2 - Online-Service squoosh.app][D-3_2]
 
@@ -42,7 +42,7 @@ Auch der Service [squoosh.app](https://squoosh.app/){target=_blank} bietet die r
 
 Wenn Sie versiert im Umgang mit Tools und Skripten sind, die über die Kommandozeile bedient werden, sollten Sie die Verwendung des Tools [jpeg-archive](https://github.com/danielgtaylor/jpeg-archive){target=_blank} in Erwägung ziehen. Es arbeitet mit dem Skript jpeg-recompress, das bei der Bildkompression sonst kaum zu erreichende Ergebnisse erzielt, mit substantiell reduzierten Dateigrößen bei mit bloßem Auge kaum wahrnehmbaren Qualitätseinbußen.
 
-Am wenigsten technischen Aufwand erfordert der Download der Binaries und die lokale Komprimierung von Arbeitskopien der Bilddateien (die durch die komprimierte Version erstetzt werden) Datei für Datei. Nach unseren Tests war die [Version 2.1.1](https://github.com/danielgtaylor/jpeg-archive/releases/tag/2.1.1){target=_blank} der letzte voll funktionsfähige Release (Stand: Juni 2019).
+Am wenigsten technischen Aufwand erfordert der Download der Binaries und die lokale Komprimierung von Arbeitskopien der Bilddateien (die durch die komprimierte Version ersetzt werden) Datei für Datei. Nach unseren Tests war die [Version 2.1.1](https://github.com/danielgtaylor/jpeg-archive/releases/tag/2.1.1){target=_blank} der letzte voll funktionsfähige Release (Stand: Juni 2019).
 
 Zu den zahlreichen Möglichkeiten, den Kompressionsvorgang zu konfigurieren, mit mehreren Dateien und Ordnern zu arbeiten etc. siehe die ausführliche Dokumentation bei [GitHub](https://github.com/danielgtaylor/jpeg-archive){target=_blank}. 
 

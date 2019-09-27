@@ -2,7 +2,7 @@
 
 Das Metadatenschema für die Objekte Ihrer Ausstellung ist so ausgelegt, dass ein breites Spektrum an Medientypen abgedeckt ist. Im Zusammenhang der virtuellen Ausstellungen haben die Metadaten in erster Linie eine deskriptive Funktion: Sie sollen über das im Rahmen der Ausstellung gezeigte Objekt informieren – die inhaltserschließende Funktion spielt hier eine untergeordnete Rolle. Sie können deshalb die Metadatenfelder relativ frei befüllen, ohne an ein vorgegebenes Schema für die Datenerfassung gebunden zu sein. Priorität hat die Lesbarkeit und Verständlichkeit aus Sicht des Publikums.
 
-Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dienen auch nur technischen Zwecken wie der Verknüpfung mit einer Datenquelle. Angezeigt werden Metadaten nicht direkt auf den Ausstellungs-Seiten selbst, sondern in einer Info-Box, die durch Klick auf das „i“-Icon geöffnet wird. 
+Die meisten Metadaten werden im Frontend der Ausstellung ausgegeben, manche dienen auch nur technischen Zwecken wie der Verknüpfung mit einer Datenquelle. Angezeigt werden Metadaten nicht direkt auf den Ausstellungsseiten selbst, sondern in einer Info-Box, die durch Klick auf das „i“-Icon geöffnet wird. 
 
 !![Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt][D-1_1]
 
@@ -131,7 +131,7 @@ Bei Lizenzangaben, die eine **Namensnennung** vorsehen (siehe oben Liste der Liz
 
 ##### Typ
 
-Die Art des Objekts (z.B. Gemälde, Fotografie, Buch ...) 
+Die Art des Objekts (z.B. Gemälde, Fotografie, Buch, ...) 
 
 **Ausgabe**: Objekt-Detailseite  
 
@@ -143,7 +143,7 @@ Zugehörigkeit zu einem übergeordneten Werkzusammenhang (z.B. erschienen in ...
 
 ##### Thema
 
-Thema, Kontext, Indexbegriff, Ort ... 
+Thema, Kontext, Indexbegriff, Ort, ... 
 
 **Ausgabe**: Objekt-Detailseite
 
@@ -155,13 +155,13 @@ Personen, die an der Herstellung des Objekts beteiligt waren, etwa als AutorIn, 
 
 ##### Zeit
 
-Zeitangabe zur Herstellung, zur Laufzeit, Erscheinungsdatum ... 
+Zeitangabe zur Herstellung, zur Laufzeit, Erscheinungsdatum, ... 
 
 **Ausgabe**: Objekt-Detailseite
 
 ##### Ort
 
-Herstellungs- oder Erscheinungsort, historische Bezeichnung des Orts, wenn der im Titel genannte Ort nicht der tatsächlich dargestellte Ort ist ... 
+Herstellungs- oder Erscheinungsort, historische Bezeichnung des Orts, wenn der im Titel genannte Ort nicht der tatsächlich dargestellte Ort ist, ... 
 
 **Ausgabe**: Objekt-Detailseite
 
@@ -205,6 +205,6 @@ Fördermittelgeber, Förderprogramm
 
 Dieses Feld dient zur Verknüpfung mit einem Video, siehe [Abschnitt B.4.3](objekte_medien.html#b43-verknupfen-mit-einer-video-datei).
 
-**Ausgabe**: als Video in einem Player (Ausstellungseite und Objekt-Detailseite)
+**Ausgabe**: als Video in einem Player (Ausstellungsseite und Objekt-Detailseite)
 
 [D-1_1]: img/D-1_1.jpg "Abb. D.1-1 – Infobox mit Metadaten zu einem Objekt"

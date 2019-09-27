@@ -22,6 +22,8 @@ Das hier gezeigte Layout-Schema „Text und Objekt“ ist sicherlich in vielen K
 
 Neben der intuitiven Bewegung durch die Ausstellung mittels Scrollen (oder Wischen bei Touch-Geräten) können die BesucherInnen die Inhalte der Ausstellung über eine Navigation gezielt ansteuern. Sie wird über das Hamburger-Menü (drei Streifen) in der Kopfleiste oben rechts aufgerufen.
 
+In ausgeklapptem Zustand bietet die Navigation eine Liste aller Seiten der Ausstellung. Die Symbole links geben Auskunft über den Charakter der auf der betreffenden Seite eingebundenen Medien, daneben erscheint der Seitentitel. Durch Zwischentitel-Seiten können Sie bei längeren Ausstellungen die Abfolge in Sektionen unterteilen.
+
 !![Abb. A.1-4 – ausgeklappte Ausstellungsnavigation][A-1_4]
 
 #### Informationen über die Ausstellung und Rechtliches
@@ -29,8 +31,6 @@ Neben der intuitiven Bewegung durch die Ausstellung mittels Scrollen (oder Wisch
 Am Ende der Ausstellung gelangen die BesucherInnen zu einer Folge von Seiten, die sich in der Gestaltung von den eigentlichen, die Inhalte präsentierenden Seiten abheben: Eine „Teamseite“, auf der die Mitwirkenden mit entsprechenden Links und Logos aufgeführt sind, und die Seite „Impressum“.
 
 !![Abb. A.1-5 – die „Teamseite“ der Musterausstellung][A-1_5]
-
-In ausgeklapptem Zustand bietet die Navigation eine Liste aller Seiten der Ausstellung. Die Symbole links geben Auskunft über den Charakter der auf der betreffenden Seite eingebundenen Medien, daneben erscheint der Seitentitel. Durch Zwischentitel-Seiten können Sie bei längeren Ausstellungen die Abfolge in Sektionen unterteilen.
 
 [A-1_1]: img/A-1_1.jpg "Abb. A.1-1 – Alt-Text „in Anführungszeichen“"
 [A-1_2]: img/A-1_2.jpg "Abb. A.1-2 – eine Seite der Ausstellung (hier: Text mit Objekt)"

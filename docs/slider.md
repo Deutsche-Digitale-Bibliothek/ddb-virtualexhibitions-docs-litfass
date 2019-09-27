@@ -4,7 +4,7 @@ Durch Ihre Ausstellungen bewegen sich die NutzerInnen durch Scrollen – also vo
 
 Um diese in der zweiten Dimension angelegten Seiten aufzurufen, muss die Nutzerin oder der Nutzer Pfeile am unteren Bildschirmrand bedienen (oder bei touchfähigen Geräten horizontal wischen). Man sollte davon ausgehen, dass viele NutzerInnen im Fluss der dominanten vertikalen Bewegung bleiben und deshalb die weiteren Seiten nicht aufrufen. Alles, was für das Ausstellungsnarrativ wichtig ist, sollte deshalb in diesem vertikalen Hauptstrang platziert werden.
 
-!![Abb. C.4-1 – Der Slider in im Frontend][C-4_1]
+!![Abb. C.4-1 – Der Slider im Frontend][C-4_1]
 
 ### C.4.1 Slider anlegen
 

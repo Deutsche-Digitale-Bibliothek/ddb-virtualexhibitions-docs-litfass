@@ -1,4 +1,4 @@
-## B.2 Objekte erstellen
+## B.2.1 Objekte erstellen
 
 Um Objekte auf einer Ausstellungsseite einbinden zu können, müssen sie bereits angelegt worden sein. Dies geschieht in der Rubrik „Objekte“, wo Sie auch alle Objekte der Ausstellung zentral verwalten.
 
@@ -10,7 +10,7 @@ Die Seite „Neues Objekt hinzufügen“ bietet am oberen Rand drei Reiter, übe
 
 !![Abb. B.2-2 – Seite „Neues Objekt hinzufügen“][B-2_2]
 
-## B.2 Objekt duplizieren
+### B.2.2 Objekt duplizieren
 
 Wenn Sie eine Reihe von Objekten anlegen, die bestimmte Metadaten gemeinsam haben, können Sie ein bestehendes Objekt duplizieren. Ein Klick auf den Textlink „Duplizieren“ legt eine Kopie des betreffenden Objekts an, bei dem alle vorhanden Metadaten übernommen werden, auch der Titel, der mit „Kopie von“ als Duplikat gekennzeichnet ist. Den Titel sollten Sie natürlich auf jeden Fall und als erstes ändern. Die mit dem Objekt verknüpften Medien werden nicht mit übernommen.
 
