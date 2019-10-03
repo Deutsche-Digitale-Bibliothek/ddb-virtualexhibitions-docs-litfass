@@ -1,6 +1,6 @@
 ## A.1 Die fertige Ausstellung
 
-Bevor wir Ihnen die Bedienung der Redaktionsoberfläche erläutern, mit der Sie Ihre eigene Ausstellung anlegen, möchten wir DDBstudio zunächst aus der Sicht der NutzerInnen vorstellen. Dazu haben wir eine Musterausstellung erstellt, in der die zur Verfügung stehenden Formate und Funktionen exemplarisch eingesetzt wurden. Sie ist unter [$LINK ZUR MUSTERAUSSTELLUNG] (http://link-zur-musterausstellung.de) aufrufbar. Bei der Arbeit an Ihrer Ausstellung können Sie dieses Muster immer wieder konsultieren, um die Möglichkeiten von DDBstudio zu erkunden.
+Bevor wir Ihnen die Bedienung der Redaktionsoberfläche erläutern, mit der Sie Ihre eigene Ausstellung anlegen, möchten wir DDBstudio zunächst aus der Sicht der NutzerInnen vorstellen. Dazu haben wir eine [Musterausstellung](http://ausstellungen.deutsche-digitale-bibliothek.de/handbuchlitfass/){target=_blank} erstellt, in der die zur Verfügung stehenden Formate und Funktionen exemplarisch eingesetzt wurden. Bei der Arbeit an Ihrer Ausstellung können Sie dieses Muster immer wieder konsultieren, um die Möglichkeiten von DDBstudio zu erkunden.
 
 #### Startseite
 

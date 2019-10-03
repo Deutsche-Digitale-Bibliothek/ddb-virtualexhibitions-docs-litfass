@@ -1,6 +1,6 @@
 ## C.3 Seiten-Layouts
 
-Für die Präsentation der Exponate und begleitender Texte stehen Ihnen acht Layout-Muster (Templates) zur Verfügung. Sie werden in den folgenden Abschnitten vorgestellt. Einen guten Einstieg bietet die [Musterausstellung von DDBstudio](https://google.com){target=_blank}. Hier können Sie die Layouts und ihre Gestaltungsmöglichkeiten zunächst aus der Perspektive der NutzerInnen betrachten und Ideen für den Aufbau Ihrer eigenen Ausstellung sammeln.
+Für die Präsentation der Exponate und begleitender Texte stehen Ihnen acht Layout-Muster (Templates) zur Verfügung. Sie werden in den folgenden Abschnitten vorgestellt. Einen guten Einstieg bietet die [Musterausstellung](http://ausstellungen.deutsche-digitale-bibliothek.de/handbuchlitfass/). Hier können Sie die Layouts und ihre Gestaltungsmöglichkeiten zunächst aus der Perspektive der NutzerInnen betrachten und Ideen für den Aufbau Ihrer eigenen Ausstellung sammeln.
 
 !![Abb. C.3-1 – Die Auswahl der Seiten-Layouts][C-3_1]
 
