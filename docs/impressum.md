@@ -17,7 +17,7 @@ Die Stiftung Preußischer Kulturbesitz wird gesetzlich vertreten durch ihren Pr�
 Die Umsatzsteueridentifikationsnummer (USt-IdNr.) der Stiftung Preußischer Kulturbesitz lautet DE 13 66 30 206.
 
 ## Ansprechpartner und Verantwortlicher nach § 55 Abs. 2 RStV:
-DR. Julia Spohr 
+Dr. Julia Spohr 
 Leitung der Geschäftsstelle
 Finanzen, Recht, Kommunikation, Marketing
 
