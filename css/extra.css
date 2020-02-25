@@ -44,12 +44,3 @@ figure > img {
 .lightbox img {
     max-width: 100%;
 }
-
-.copyright {
-    font-size: 0.8rem;
-}
-
-.task-list label,
-.task-list .task-list-control {
-    display: inline;
-}
