@@ -9,7 +9,7 @@ copyright: ''
 nav:
     - Einleitung: einleitung.md
     - Projekt starten: projekt_starten.md
-    - A So funktioniert DDBStudio: 
+    - A So funktioniert DDBStudio:
       - 1. Die fertige Ausstellung - das Frontend: frontend.md
       - 2. Das Omeka Backend: backend.md
     - B Die Exponate - Objekte in Omeka:
@@ -56,6 +56,7 @@ use_directory_urls: false
 
 # Extensions
 markdown_extensions:
+  - extra
   - admonition
   - footnotes
   - meta
@@ -73,3 +74,17 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - figureAltCaption
+
+# Plugins
+# plugins:
+#   - with-pdf:
+#       author: Deutsche Digitale Bibliothek, Culture to Go & Grandgeorg Websolutions
+#       copyright: Deutsche Digitale Bibliothek, Culture to Go & Grandgeorg Websolutions
+#       #
+#       # cover: false
+#       # back_cover: false
+#       # custom_template_path: themes/readthedocs_ddb
+#       render_js: false
+#       debug_html: true
+#       # show_anchors: true
+#       verbose: false

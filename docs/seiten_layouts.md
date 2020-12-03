@@ -10,9 +10,9 @@ Unabhängig davon, welches Layout Sie wählen, arbeiten Sie im Prinzip immer mit
 
 !![Abb. C.3-2 – Eingabe von Begleittext und Einbinden von Objekten][C-3_2]
 
-Der begleitende Text wird im Abschnitt „Seiteninhalt“ über einen Texteditor eingegeben, wie Sie ihn schon vom Anlegen der Objekte kennen. Im Kasten darunter oder darüber binden Sie über die Schaltfläche „Objekt hinzufügen“ ein Objekt auf die Seite ein. Das Objekt müssen Sie zuvor schon angelegt haben ([siehe Abschnitt B.2](objekte_erstellen.html)).
+Der begleitende Text wird im Abschnitt „Seiteninhalt“ über einen Texteditor eingegeben, wie Sie ihn schon vom Anlegen der Objekte kennen. Im Kasten darunter oder darüber binden Sie über die Schaltfläche „Objekt hinzufügen“ ein Objekt auf die Seite ein. Das Objekt müssen Sie zuvor schon angelegt haben ([siehe Abschnitt B.2](objekte_erstellen.md)).
 
-In der Dialogbox „Objekt hinzufügen“ wählen Sie das Objekt aus der Liste der vorhandenen Objekte durch Klick auf den Balken mit Titel und Vorschaubild aus. Wenn Sie bereits viele Objekte angelegt haben, nutzen Sie am besten das Suchformular ([siehe Abschnitt B.5](objekte_suche.html)). Diese erweiterte Suche bietet zahlreiche Möglichkeiten für die Zusammenstellung von komplexen Suchanfragen, in aller Regel genügt aber die Eingabe eines Suchbegriffs in das Feld „In allen Feldern suchen“. Um die Suche auszulösen, drücken Sie bitte die Enter-Taste. Aus der so erzeugten Trefferliste wählen Sie das gewünschte Objekt durch Klick auf den Balken mit Titel und Vorschaubild.
+In der Dialogbox „Objekt hinzufügen“ wählen Sie das Objekt aus der Liste der vorhandenen Objekte durch Klick auf den Balken mit Titel und Vorschaubild aus. Wenn Sie bereits viele Objekte angelegt haben, nutzen Sie am besten das Suchformular ([siehe Abschnitt B.5](objekte_suche.md)). Diese erweiterte Suche bietet zahlreiche Möglichkeiten für die Zusammenstellung von komplexen Suchanfragen, in aller Regel genügt aber die Eingabe eines Suchbegriffs in das Feld „In allen Feldern suchen“. Um die Suche auszulösen, drücken Sie bitte die Enter-Taste. Aus der so erzeugten Trefferliste wählen Sie das gewünschte Objekt durch Klick auf den Balken mit Titel und Vorschaubild.
 
 Abschließend bestätigen Sie die Auswahl über die Schaltfläche „Ausgewähltes Objekt hinzufügen“.
 

@@ -68,7 +68,7 @@ Den Überschriften sind unterschiedliche Formatierungen zugewiesen, die bereits 
 
 Für Zwischenüberschriften sollten Sie eine Hierarchie-Stufe Überschrift 2-4 wählen, da die automatisch ausgegebene Seitenüberschrift das Format Überschrift 1 hat. Bitte achten Sie auf eine inhaltlich sinnvolle und konsistente Vergabe der Überschriftenformate.
 
-Wenn Sie beim Anlegen der Seite die Option „Titel im Seiteninhalt anzeigen: nein“ gewählt haben ([siehe Abschnitt C.2.1](seiten_anlegen.html#c21-metadaten-der-seite)), wird die Seitenüberschrift nicht automatisch ausgegeben. Hier können Sie eine eigene Überschrift im Format Überschrift 1 setzen.
+Wenn Sie beim Anlegen der Seite die Option „Titel im Seiteninhalt anzeigen: nein“ gewählt haben ([siehe Abschnitt C.2.1](seiten_anlegen.md#c21-metadaten-der-seite)), wird die Seitenüberschrift nicht automatisch ausgegeben. Hier können Sie eine eigene Überschrift im Format Überschrift 1 setzen.
 
 Um eine Überschriftenformatierung zu entfernen, weisen Sie wieder das Format „Absatz“ zu.
 
@@ -76,7 +76,7 @@ Um eine Überschriftenformatierung zu entfernen, weisen Sie wieder das Format �
 
 ##### Zitatblock
 
-Wenn Sie in Ihrer Ausstellung hervorgehobene Zitate einbinden möchten, steht Ihnen dazu ein eigenes Seiten-Layout zur Verfügung: „Zitatblock“ ([siehe Abschnitt C.3.3](seiten_layouts.html#layout-7-zitatblock)). Sie können aber auch in einer Seite Zitatblöcke einbinden. Um einen Absatz als einen solchen Zitatblock zu gestalten, fügen Sie zunächst das Zitat mit einer kurzen Quellenangabe ein. Markieren Sie das gesamte Zitat und die Quellenangabe und wählen unter „Formate“ „blockquote“. Der betreffende Abschnitt wird im Editor eingerückt dargestellt. Nun markieren Sie die Quellenangabe und wählen in der Formate-Liste „cite“.
+Wenn Sie in Ihrer Ausstellung hervorgehobene Zitate einbinden möchten, steht Ihnen dazu ein eigenes Seiten-Layout zur Verfügung: „Zitatblock“ ([siehe Abschnitt C.3.3](seiten_layouts.md#layout-7-zitatblock)). Sie können aber auch in einer Seite Zitatblöcke einbinden. Um einen Absatz als einen solchen Zitatblock zu gestalten, fügen Sie zunächst das Zitat mit einer kurzen Quellenangabe ein. Markieren Sie das gesamte Zitat und die Quellenangabe und wählen unter „Formate“ „blockquote“. Der betreffende Abschnitt wird im Editor eingerückt dargestellt. Nun markieren Sie die Quellenangabe und wählen in der Formate-Liste „cite“.
 
 !!!note "Zitate-Format nur für einen Absatz geeignet"
 

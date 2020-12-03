@@ -1,6 +1,6 @@
 ## C.4 Slider 
 
-Durch Ihre Ausstellungen bewegen sich die NutzerInnen durch Scrollen – also von oben nach unten. Sie haben die Möglichkeit, die Seiten auf dieser ‚Hauptachse‘ durch weitere Inhalte zu ergänzen, die in Form eines Sliders in der Horizontalen durchblättert werden können. Für diese ergänzenden Inhalte stehen Ihnen wiederum alle in [Abschnitt C.3](seiten_layouts.html) vorgestellten Seiten-Layouts zur Verfügung.
+Durch Ihre Ausstellungen bewegen sich die NutzerInnen durch Scrollen – also von oben nach unten. Sie haben die Möglichkeit, die Seiten auf dieser ‚Hauptachse‘ durch weitere Inhalte zu ergänzen, die in Form eines Sliders in der Horizontalen durchblättert werden können. Für diese ergänzenden Inhalte stehen Ihnen wiederum alle in [Abschnitt C.3](seiten_layouts.md) vorgestellten Seiten-Layouts zur Verfügung.
 
 Um diese in der zweiten Dimension angelegten Seiten aufzurufen, muss die Nutzerin oder der Nutzer Pfeile am unteren Bildschirmrand bedienen (oder bei touchfähigen Geräten horizontal wischen). Man sollte davon ausgehen, dass viele NutzerInnen im Fluss der dominanten vertikalen Bewegung bleiben und deshalb die weiteren Seiten nicht aufrufen. Alles, was für das Ausstellungsnarrativ wichtig ist, sollte deshalb in diesem vertikalen Hauptstrang platziert werden.
 
@@ -30,7 +30,7 @@ Wenn Sie Ihren Slider zusammengestellt haben, speichern Sie das Ergebnis über d
 
 ### C.4.3 Slider löschen
 
-Das Löschen eines Sliders erfolgt – analog zum Löschen einer Seite ([siehe Abschnitt C.2](seiten_anlegen.html#c2-seiten-anlegen)) – durch Klick auf das „X“ im Balken. Wirksam wird das Löschen erst, wenn Sie auf die Schaltfläche „Änderungen übernehmen“ klicken. 
+Das Löschen eines Sliders erfolgt – analog zum Löschen einer Seite ([siehe Abschnitt C.2](seiten_anlegen.md#c2-seiten-anlegen)) – durch Klick auf das „X“ im Balken. Wirksam wird das Löschen erst, wenn Sie auf die Schaltfläche „Änderungen übernehmen“ klicken. 
 
 !![Abb. C.4-5 – Löschen eines Sliders][C-4_5]
 

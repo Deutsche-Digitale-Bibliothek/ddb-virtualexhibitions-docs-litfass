@@ -20,7 +20,7 @@ Um das Objekt mit einer Mediendatei – dem Digitalisat des Objekts, das Sie in 
     
     PDF-Dateien können nicht zur Repräsentation des Objekts verwendet werden.
 
-Auf den Ausstellungsseiten steht für die eingebundenen Bilder später ein Zoom-Tool zur Verfügung. Die NutzerInnen können die Bilder vergrößern, bis die native Auflösung des eingestellten Bildes erreicht ist, also bis ein Pixel des Bildes einem Pixel in der Frontend-Ausgabe entspricht. Wenn Sie Ihren BesucherInnen diese Möglichkeit bieten wollen, sollten Sie ausreichend große, d.h. hochaufgelöste Bilder verwenden. Für die Ausgabe im Kontext der Seite, also im ungezoomten Zustand, verwendet DDBstudio ein Vorschaubild in reduzierter Größe. Das Einstellen großer, hochauflösender Bilder verlangsamt also den Aufruf der eigentlichen Ausstellungsseiten nicht, soweit es sich um Text-Bild-Kombinationen handelt. Siehe auch den Abschnitt [D.3.1 Sinnvolle Bildgrößen](anhang_mediendateien.html#d31-sinnvolle-bildgroen) im Anhang.
+Auf den Ausstellungsseiten steht für die eingebundenen Bilder später ein Zoom-Tool zur Verfügung. Die NutzerInnen können die Bilder vergrößern, bis die native Auflösung des eingestellten Bildes erreicht ist, also bis ein Pixel des Bildes einem Pixel in der Frontend-Ausgabe entspricht. Wenn Sie Ihren BesucherInnen diese Möglichkeit bieten wollen, sollten Sie ausreichend große, d.h. hochaufgelöste Bilder verwenden. Für die Ausgabe im Kontext der Seite, also im ungezoomten Zustand, verwendet DDBstudio ein Vorschaubild in reduzierter Größe. Das Einstellen großer, hochauflösender Bilder verlangsamt also den Aufruf der eigentlichen Ausstellungsseiten nicht, soweit es sich um Text-Bild-Kombinationen handelt. Siehe auch den Abschnitt [D.3.1 Sinnvolle Bildgrößen](anhang_mediendateien.md#d31-sinnvolle-bildgroen) im Anhang.
 
 Zoombarkeit ist aber auch kein Selbstzweck. Wenn Sie etwa als Archivdokument ein Typoskript präsentieren, trägt es wahrscheinlich zum Ausstellungserlebnis wenig bei, wenn man es so weit heranzoomen kann, dass die Holzfasern im Papier erkennbar werden. Verstehen Sie die Zoomfunktion als Gestaltungselement, das Sie im Sinne Ihrer kuratorischen Konzeption einsetzen können (aber nicht müssen). Wurden keine Einstellungen vorgenommen, wird ein Zoomausschnitt mit hoher Zoomstufe sowie vertikaler und horizontaler Zentrierung erzeugt.     
 
@@ -40,7 +40,7 @@ Nachdem Sie die Änderungen übernommen haben, wird die verknüpfte Datei auf de
 
 ### B.4.2 Verknüpfen mit einer Audio-Datei
 
-Wenn es sich bei Ihrem ‚Exponat‘ um eine Tonaufnahme handelt, funktioniert die Einbindung der entsprechenden Datei (zulässige Audio-Formate sind .mp3 und .ogg) analog zur Einbindung einer Bild-Datei ([siehe vorangehender Abschnitt](objekte_medien.html#b41-verknupfen-mit-einer-bild-datei)). In der Ausstellung wird die Datei über einen Player wiedergegeben. Damit Ihre BesucherInnen beim Anhören nicht nur die nüchterne Bedienoberfläche des Players vor Augen haben, können Sie ein Bild als weitere Datei einbinden, die dann über dem Player angezeigt wird. Bitte binden Sie genau **eine** Audio-Datei und ggf. **ein** Bild ein. 
+Wenn es sich bei Ihrem ‚Exponat‘ um eine Tonaufnahme handelt, funktioniert die Einbindung der entsprechenden Datei (zulässige Audio-Formate sind .mp3 und .ogg) analog zur Einbindung einer Bild-Datei ([siehe vorangehender Abschnitt](objekte_medien.md#b41-verknupfen-mit-einer-bild-datei)). In der Ausstellung wird die Datei über einen Player wiedergegeben. Damit Ihre BesucherInnen beim Anhören nicht nur die nüchterne Bedienoberfläche des Players vor Augen haben, können Sie ein Bild als weitere Datei einbinden, die dann über dem Player angezeigt wird. Bitte binden Sie genau **eine** Audio-Datei und ggf. **ein** Bild ein. 
 
 ### B.4.3 Verknüpfen mit einer Video-Datei
 
@@ -58,7 +58,7 @@ Mit „Übernehmen“ bestätigen Sie Ihre Eingaben, gespeichert werden sie erst
 
 ### B.4.4 Mehrseitige Objekte zum Durchblättern im Bookviewer
 
-Auf den Seiten Ihrer Ausstellung wird immer nur ein Digitalisat ausgegeben. Wenn Sie eine Serie von Objekten präsentieren möchten, können Sie für jedes Objekt eine Seite anlegen und ggf. das Slider-Modul nutzen ([siehe Abschnitt C.4](slider.html)). 
+Auf den Seiten Ihrer Ausstellung wird immer nur ein Digitalisat ausgegeben. Wenn Sie eine Serie von Objekten präsentieren möchten, können Sie für jedes Objekt eine Seite anlegen und ggf. das Slider-Modul nutzen ([siehe Abschnitt C.4](slider.md)). 
 
 Bei bestimmten Objekten, besonders mehrseitigen Publikationen, Heften etc., können Sie eine Präsentation in einem Bookviewer verwenden, der außerhalb der Ausstellung aufgerufen wird. Er dient deshalb eher der vertiefenden Beschäftigung mit dem Material und ist nicht mehr integraler Bestandteil der Ausstellung.
 
